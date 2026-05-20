@@ -20,9 +20,18 @@
     </div>
 
     <div class="detalle-cuerpo">
+      <!-- Columna principal: letra -->
       <div class="col-letra fade-in-2">
         <MostrarAcordes :cancion="cancion" />
+        <!-- Canciones relacionadas al final de la letra -->
+        <CancionesRelacionadas
+          v-if="todasCanciones.length"
+          :cancion-actual="cancion"
+          :todas="todasCanciones"
+        />
       </div>
+
+      <!-- Columna lateral: video + audio + metrónomo -->
       <div class="col-lateral fade-in-3">
         <ReproductorYouTube :video-id="cancion.youtubeId" />
         <AudioPlayer
@@ -31,10 +40,12 @@
           :titulo="cancion.titulo"
           subtitulo="Descripción de la canción"
         />
+        <Metronomo />
       </div>
     </div>
   </div>
 
+  <!-- Skeleton mientras carga -->
   <div v-else class="cargando">
     <div class="cargando-icono">♪</div>
     <p>Cargando canción...</p>
@@ -44,17 +55,20 @@
 <script setup>
 import { ref, onMounted } from 'vue'
 import { useRoute } from 'vue-router'
-import MostrarAcordes from '../components/MostrarAcordes.vue'
-import ReproductorYouTube from '../components/ReproductorYouTube.vue'
-import AudioPlayer from '../components/AudioPlayer.vue'
+import MostrarAcordes        from '../components/MostrarAcordes.vue'
+import ReproductorYouTube    from '../components/ReproductorYouTube.vue'
+import AudioPlayer           from '../components/AudioPlayer.vue'
+import Metronomo             from '../components/Metronomo.vue'
+import CancionesRelacionadas from '../components/CancionesRelacionadas.vue'
 
-const route   = useRoute()
-const cancion = ref(null)
+const route          = useRoute()
+const cancion        = ref(null)
+const todasCanciones = ref([])
 
 onMounted(async () => {
   const res = await fetch('/canciones.json')
-  const todas = await res.json()
-  cancion.value = todas.find(c => c.id === parseInt(route.params.id))
+  todasCanciones.value = await res.json()
+  cancion.value = todasCanciones.value.find(c => c.id === parseInt(route.params.id))
 })
 </script>
 
@@ -100,7 +114,6 @@ onMounted(async () => {
   display: inline-flex; align-items: center; gap: 7px;
   box-shadow: 0 1px 4px rgba(90,64,32,0.06);
 }
-.btn-accion:hover { border-color: var(--gold-primary); color: var(--gold-dark); background: rgba(184,134,42,0.05); }
 .btn-presentacion {
   background: linear-gradient(135deg, var(--gold-dark), var(--gold-primary)) !important;
   color: #faf7f2 !important; border-color: transparent !important; font-weight: 700;
@@ -112,7 +125,7 @@ onMounted(async () => {
   max-width: 1100px; margin: 0 auto; padding: 48px 24px 100px;
   display: grid; grid-template-columns: 1fr 340px; gap: 48px; align-items: start;
 }
-.col-lateral { position: sticky; top: 100px; }
+.col-lateral { position: sticky; top: 100px; display: flex; flex-direction: column; gap: 0; }
 
 .cargando {
   display: flex; flex-direction: column; align-items: center; justify-content: center;
