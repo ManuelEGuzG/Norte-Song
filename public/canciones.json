@@ -1,0 +1,3564 @@
+[
+  {
+    "id": 1,
+    "titulo": "Bendito Jesús",
+    "artista": "Danilo Montero",
+    "tono": "B",
+    "genero": "Adoración",
+    "youtubeId": "N_obYr-RPJA",
+    "letra": [
+      {
+        "tipo": "intro",
+        "etiqueta": "Intro",
+        "lineas": [
+          {
+            "acordes": "B  F#  G#m  F#  E  F#  B",
+            "texto": ""
+          }
+        ]
+      },
+      {
+        "tipo": "verso",
+        "etiqueta": "Verso 1",
+        "lineas": [
+          {
+            "acordes": "B               F#                 G#m",
+            "texto": "Por tí es mi clamor, y sin ningun temor"
+          },
+          {
+            "acordes": " F#         E       F#         B",
+            "texto": "En tí puedo confiar, Bendito Jesus"
+          },
+          {
+            "acordes": "                F#                G#m",
+            "texto": "Hoy puedo escuchar, tú voz de sanidad"
+          },
+          {
+            "acordes": "F#          E      F#            B",
+            "texto": "Restaurando mi ser, Bendito Jesús"
+          }
+        ]
+      },
+      {
+        "tipo": "coro",
+        "etiqueta": "Coro",
+        "lineas": [
+          {
+            "acordes": "B             F#             D#/G  G#m",
+            "texto": "Mi deseo eres tú, mi momento de amor"
+          },
+          {
+            "acordes": "        F#        E       F#       B",
+            "texto": "La alegria de vivir, Bendito Jesús"
+          },
+          {
+            "acordes": "                   F#                 D#/G  G#m",
+            "texto": "Eres mi fuente de amor, eres aire, y eres sol"
+          },
+          {
+            "acordes": "      F#          E              F#",
+            "texto": "El latir del corazón, Bendito Jesús"
+          },
+          {
+            "acordes": "G#m         F#           E",
+            "texto": "Bendito amor de mi Señor"
+          }
+        ]
+      },
+      {
+        "tipo": "verso",
+        "etiqueta": "Verso 2",
+        "lineas": [
+          {
+            "acordes": "B              F#               G#m",
+            "texto": "Tú gracia y favor, conmigo puedo ver"
+          },
+          {
+            "acordes": "F#        E      F#      E         B",
+            "texto": "Llenando hoy mi ser, Bendito Jesús"
+          },
+          {
+            "acordes": "                F#                   G#m",
+            "texto": "Y hoy mi voluntad, se rinde a tu verdad"
+          },
+          {
+            "acordes": " F#        E        F#      E         B",
+            "texto": "Tú amor y tu bondad, Bendito Jesús"
+          }
+        ]
+      },
+      {
+        "tipo": "coro",
+        "etiqueta": "Coro",
+        "lineas": [
+          {
+            "acordes": "B             F#             D#/G  G#m",
+            "texto": "Mi deseo eres tú, mi momento de amor"
+          },
+          {
+            "acordes": "        F#        E       F#       B",
+            "texto": "La alegria de vivir, Bendito Jesús"
+          },
+          {
+            "acordes": "                   F#                 D#/G  G#m",
+            "texto": "Eres mi fuente de amor, eres aire, y eres sol"
+          },
+          {
+            "acordes": "      F#          E              F#",
+            "texto": "El latir del corazón, Bendito Jesús"
+          },
+          {
+            "acordes": "G#m         F#           E",
+            "texto": "Bendito amor de mi Señor"
+          },
+          {
+            "acordes": "G#m        F#           E",
+            "texto": "Bendito amor de mi Señor"
+          }
+        ]
+      },
+      {
+        "tipo": "coro",
+        "etiqueta": "Coro",
+        "lineas": [
+          {
+            "acordes": "B             F#             D#/G  G#m",
+            "texto": "Mi deseo eres tú, mi momento de amor"
+          },
+          {
+            "acordes": "        F#        E       F#       B",
+            "texto": "La alegria de vivir, Bendito Jesús"
+          },
+          {
+            "acordes": "                   F#                 D#/G  G#m",
+            "texto": "Eres mi fuente de amor, eres aire, y eres sol"
+          },
+          {
+            "acordes": "      F#          E              F#",
+            "texto": "El latir del corazón, Bendito Jesús"
+          },
+          {
+            "acordes": "G#m         F#           E",
+            "texto": "Bendito amor de mi Señor"
+          },
+          {
+            "acordes": "G#m        F#           E",
+            "texto": "Bendito amor de mi Señor"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "titulo": "Fiel",
+    "artista": "Majo y Dan",
+    "tono": "F",
+    "genero": "Alabanza",
+    "youtubeId": "w66bfbeKny0",
+    "letra": [
+      {
+        "tipo": "intro",
+        "etiqueta": "Intro",
+        "lineas": [
+          {
+            "acordes": "F  C11  Dm  Am  Bb",
+            "texto": ""
+          }
+        ]
+      },
+      {
+        "tipo": "verso",
+        "etiqueta": "Primera Parte",
+        "lineas": [
+          {
+            "acordes": "        F",
+            "texto": "Oh, corazón"
+          },
+          {
+            "acordes": "            C11",
+            "texto": "Encuentra valor"
+          },
+          {
+            "acordes": "             Dm",
+            "texto": "Recuerda los días"
+          },
+          {
+            "acordes": "           C11",
+            "texto": "De sus maravillas"
+          },
+          {
+            "acordes": "             Bb",
+            "texto": "Y presta atención"
+          },
+          {
+            "acordes": "         F",
+            "texto": "Él es Emanuel"
+          },
+          {
+            "acordes": "             C11",
+            "texto": "Siempre ha estado aquí"
+          },
+          {
+            "acordes": "              Dm",
+            "texto": "No olvides su pacto"
+          },
+          {
+            "acordes": "                C11",
+            "texto": "Descansa en su abrazo"
+          },
+          {
+            "acordes": "             Bb",
+            "texto": "Y vuelve a decir"
+          }
+        ]
+      },
+      {
+        "tipo": "coro",
+        "etiqueta": "Estribillo 1",
+        "lineas": [
+          {
+            "acordes": "              F",
+            "texto": "Dios, Tú eres fiel"
+          },
+          {
+            "acordes": "                C11",
+            "texto": "Fiel hasta el final"
+          },
+          {
+            "acordes": "           Dm",
+            "texto": "Nunca fallarás"
+          },
+          {
+            "acordes": "            Bb",
+            "texto": "En la tempestad"
+          },
+          {
+            "acordes": "                     F",
+            "texto": "Sé que sigues siendo fiel"
+          }
+        ]
+      },
+      {
+        "tipo": "verso",
+        "etiqueta": "Segunda Parte",
+        "lineas": [
+          {
+            "acordes": "           F",
+            "texto": "Y me alegraré"
+          },
+          {
+            "acordes": "            C11",
+            "texto": "Aun en el dolor"
+          },
+          {
+            "acordes": "             Dm",
+            "texto": "Pues soy tu amado"
+          },
+          {
+            "acordes": "          C11",
+            "texto": "Y vivo confiado"
+          },
+          {
+            "acordes": "           Bb",
+            "texto": "En mi salvador"
+          },
+          {
+            "acordes": "          F",
+            "texto": "Decido creer"
+          },
+          {
+            "acordes": "               C11",
+            "texto": "Que no es el final"
+          },
+          {
+            "acordes": "           Dm",
+            "texto": "Veré la promesa"
+          },
+          {
+            "acordes": "               C11",
+            "texto": "Tu gracia y tu fuerza"
+          },
+          {
+            "acordes": "           Bb",
+            "texto": "Me acompañarán"
+          }
+        ]
+      },
+      {
+        "tipo": "coro",
+        "etiqueta": "Estribillo 2",
+        "lineas": [
+          {
+            "acordes": "             F",
+            "texto": "Pues Tú eres fiel"
+          },
+          {
+            "acordes": "                C11",
+            "texto": "Fiel hasta el final"
+          },
+          {
+            "acordes": "              Dm",
+            "texto": "Tú nunca fallarás"
+          },
+          {
+            "acordes": "            Bb",
+            "texto": "En la tempestad"
+          },
+          {
+            "acordes": "                     F",
+            "texto": "Sé que sigues siendo rey"
+          },
+          {
+            "acordes": "               C11",
+            "texto": "Y por la eternidad"
+          },
+          {
+            "acordes": "               Dm",
+            "texto": "Tú nunca cambiarás"
+          },
+          {
+            "acordes": "            Bb",
+            "texto": "Puedo descansar"
+          },
+          {
+            "acordes": "                     F",
+            "texto": "En que sigues siendo fiel"
+          }
+        ]
+      },
+      {
+        "tipo": "puente",
+        "etiqueta": "Puente",
+        "lineas": [
+          {
+            "acordes": "  F",
+            "texto": "Y si lo pierdo todo"
+          },
+          {
+            "acordes": "C/E",
+            "texto": "Pero tengo a Cristo"
+          },
+          {
+            "acordes": "   Dm7          C",
+            "texto": "Yo sé que tengo todo"
+          },
+          {
+            "acordes": "         Bb",
+            "texto": "Lo que necesito"
+          },
+          {
+            "acordes": "F",
+            "texto": "Tú eres mi tesoro"
+          },
+          {
+            "acordes": "C/E",
+            "texto": "Mi mejor amigo"
+          },
+          {
+            "acordes": "   Dm7         C",
+            "texto": "Yo sé que tengo todo"
+          },
+          {
+            "acordes": "       Bb",
+            "texto": "Si Tú estás conmigo"
+          }
+        ]
+      },
+      {
+        "tipo": "coro",
+        "etiqueta": "Refrán 3",
+        "lineas": [
+          {
+            "acordes": "     F",
+            "texto": "Eres fiel"
+          },
+          {
+            "acordes": "              C11",
+            "texto": "Fiel hasta el final"
+          },
+          {
+            "acordes": "   Dm",
+            "texto": "Tú nunca fallarás"
+          },
+          {
+            "acordes": "            Bb",
+            "texto": "En la tempestad"
+          },
+          {
+            "acordes": "                     F",
+            "texto": "Sé que sigues siendo rey"
+          },
+          {
+            "acordes": "               C",
+            "texto": "Y por la eternidad"
+          },
+          {
+            "acordes": "               Dm",
+            "texto": "Tú nunca cambiarás"
+          },
+          {
+            "acordes": "            Bb",
+            "texto": "Puedo descansar"
+          },
+          {
+            "acordes": "                     F",
+            "texto": "En que sigues siendo fiel"
+          }
+        ]
+      },
+      {
+        "tipo": "coro",
+        "etiqueta": "Refrán 4",
+        "lineas": [
+          {
+            "acordes": "F",
+            "texto": "Fiel"
+          },
+          {
+            "acordes": "                C11",
+            "texto": "Fiel hasta el final"
+          },
+          {
+            "acordes": "              Dm",
+            "texto": "Tú nunca fallarás"
+          },
+          {
+            "acordes": "            Bb                        F",
+            "texto": "En la tempestad, sé que sigues siendo rey"
+          },
+          {
+            "acordes": "             C11",
+            "texto": "Por la eternidad"
+          },
+          {
+            "acordes": "               Dm",
+            "texto": "Tú nunca cambiarás"
+          },
+          {
+            "acordes": "            Bb",
+            "texto": "Puedo descansar"
+          },
+          {
+            "acordes": "                     F",
+            "texto": "En que sigues siendo fiel"
+          }
+        ]
+      },
+      {
+        "tipo": "intro",
+        "etiqueta": "Final",
+        "lineas": [
+          {
+            "acordes": "F  C11  Dm  Bb  F",
+            "texto": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "titulo": "Tu mirada",
+    "artista": "Marcos Witt",
+    "tono": "G",
+    "genero": "Adoración",
+    "youtubeId": "YNou3YGzP_M",
+    "letra": [
+      {
+        "tipo": "intro",
+        "etiqueta": "Intro",
+        "lineas": [
+          {
+            "acordes": "G  Em7  C",
+            "texto": ""
+          },
+          {
+            "acordes": "D  D4  D",
+            "texto": ""
+          }
+        ]
+      },
+      {
+        "tipo": "verso",
+        "etiqueta": "Verso 1",
+        "lineas": [
+          {
+            "acordes": "G                        Em",
+            "texto": "Tus  ojos  revelan  que  yo  nada  puedo  esconder"
+          },
+          {
+            "acordes": "           C                  D",
+            "texto": "Que  no  soy  nada  sin  Ti  oh  fiel  Señor"
+          },
+          {
+            "acordes": "G                            Em",
+            "texto": "Todo  lo  sabes  de  mí  cuando  miras  el  corazón"
+          },
+          {
+            "acordes": "      C         Am              D",
+            "texto": "Todo  lo  puedes  ver  muy  dentro  de  mí"
+          },
+          {
+            "acordes": "G           C           G     C",
+            "texto": "Lleva  mi  vida  a  una  sola  verdad"
+          },
+          {
+            "acordes": "      G        C    Am                D",
+            "texto": "Que  cuando  me  miras   nada  puedo  ocultar"
+          }
+        ]
+      },
+      {
+        "tipo": "coro",
+        "etiqueta": "Coro (G)",
+        "lineas": [
+          {
+            "acordes": "G          D        Em                  C",
+            "texto": "Sé  que  es  tu  fidelidad  que  lleva  mi  vida  mas  allá"
+          },
+          {
+            "acordes": "            Am          D",
+            "texto": "De  lo  que  puedo  imaginar"
+          },
+          {
+            "acordes": "G        D          Em                C",
+            "texto": "Sé  que  no  puedo  negar  que  tu  mirada  puesta  en  mí"
+          },
+          {
+            "acordes": "       C       D        G",
+            "texto": "Me  llena  de  tu  paz"
+          }
+        ]
+      },
+      {
+        "tipo": "coro",
+        "etiqueta": "Coro (A)",
+        "lineas": [
+          {
+            "acordes": "A          E         F#m                  D",
+            "texto": "Sé  que  es  tu  fidelidad  que  lleva  mi  vida  mas  allá"
+          },
+          {
+            "acordes": "            Bm          E",
+            "texto": "De  lo  que  puedo  imaginar"
+          },
+          {
+            "acordes": "A        E          F#m                D",
+            "texto": "Sé  que  no  puedo  negar  que  tu  mirada  puesta  en  mí"
+          },
+          {
+            "acordes": "       D       E        A",
+            "texto": "Me  llena  de  tu  paz"
+          }
+        ]
+      },
+      {
+        "tipo": "coro",
+        "etiqueta": "Coro (A)",
+        "lineas": [
+          {
+            "acordes": "A          E         F#m                  D",
+            "texto": "Sé  que  es  tu  fidelidad  que  lleva  mi  vida  mas  allá"
+          },
+          {
+            "acordes": "            Bm          E",
+            "texto": "De  lo  que  puedo  imaginar"
+          },
+          {
+            "acordes": "A        E          F#m                D",
+            "texto": "Sé  que  no  puedo  negar  que  tu  mirada  puesta  en  mí"
+          },
+          {
+            "acordes": "       D       E        A",
+            "texto": "Me  llena  de  tu  paz"
+          }
+        ]
+      },
+      {
+        "tipo": "puente",
+        "etiqueta": "Final",
+        "lineas": [
+          {
+            "acordes": "E            F#m          D",
+            "texto": "  Que  tu  mirada  puesta  en  mí"
+          },
+          {
+            "acordes": "       D       E        A",
+            "texto": "Me  llena  de  tu  paz"
+          }
+        ]
+      },
+      {
+        "tipo": "intro",
+        "etiqueta": "Final",
+        "lineas": [
+          {
+            "acordes": "A  F#m  D  D/E",
+            "texto": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "titulo": "Desde Mi Interior",
+    "artista": "Hillsong UNITED",
+    "tono": "C",
+    "genero": "Adoración",
+    "youtubeId": "pORjEfnPALk",
+    "letra": [
+      {
+        "tipo": "intro",
+        "etiqueta": "Intro",
+        "lineas": [
+          {
+            "acordes": "F  C  G",
+            "texto": ""
+          }
+        ]
+      },
+      {
+        "tipo": "verso",
+        "etiqueta": "Verso 1",
+        "lineas": [
+          {
+            "acordes": "    F                 C         G",
+            "texto": "Mil veces te falle, mas tu fuiste fiel"
+          },
+          {
+            "acordes": "            F             C         G",
+            "texto": "Tu gracia me levanto, me basta tu amor"
+          },
+          {
+            "acordes": "       Am      F               C      G",
+            "texto": "Dios eterno tu luz por siempre brillara"
+          },
+          {
+            "acordes": "        Am        F       C     G",
+            "texto": "Y tu gloria incomparable sin final"
+          }
+        ]
+      },
+      {
+        "tipo": "verso",
+        "etiqueta": "Verso 2",
+        "lineas": [
+          {
+            "acordes": "          F           C     G",
+            "texto": "Señor tu voluntad permanecera"
+          },
+          {
+            "acordes": "       F                  C      G",
+            "texto": "En ti me quiero perder en adoracion"
+          },
+          {
+            "acordes": "       Am      F               C      G",
+            "texto": "Dios eterno tu luz por siempre brillara"
+          },
+          {
+            "acordes": "        Am        F       C     G",
+            "texto": "Y tu gloria incomparable sin final"
+          }
+        ]
+      },
+      {
+        "tipo": "puente",
+        "etiqueta": "Precoro",
+        "lineas": [
+          {
+            "acordes": "F           C",
+            "texto": " De mi corazon te doy el control"
+          },
+          {
+            "acordes": "Am             G             F",
+            "texto": " Consume todo mi interior, Dios"
+          },
+          {
+            "acordes": "               Am              G",
+            "texto": " Justicia y amor me abrazan señor"
+          },
+          {
+            "acordes": "               Dm",
+            "texto": " Te amo desde mi interior"
+          }
+        ]
+      },
+      {
+        "tipo": "coro",
+        "etiqueta": "Coro 1",
+        "lineas": [
+          {
+            "acordes": "      Am      F               C      G",
+            "texto": "Dios eterno tu luz por siempre brillara"
+          },
+          {
+            "acordes": "        Am        F       C     G",
+            "texto": "Y tu gloria incomparable sin final"
+          },
+          {
+            "acordes": "       C         F         G      Am",
+            "texto": "El clamor de mi ser es contigo estar"
+          },
+          {
+            "acordes": "       F       G          F     G",
+            "texto": "Desde mi interior mi alma clamara"
+          }
+        ]
+      },
+      {
+        "tipo": "puente",
+        "etiqueta": "Precoro",
+        "lineas": [
+          {
+            "acordes": "F           C",
+            "texto": " De mi corazon te doy el control"
+          },
+          {
+            "acordes": "Am             G             F",
+            "texto": " Consume todo mi interior, Dios"
+          },
+          {
+            "acordes": "               Am              G",
+            "texto": " Justicia y amor me abrazan señor"
+          },
+          {
+            "acordes": "               Dm",
+            "texto": " Te amo desde mi interior"
+          }
+        ]
+      },
+      {
+        "tipo": "coro",
+        "etiqueta": "Coro 2",
+        "lineas": [
+          {
+            "acordes": "      Am      F               C      G",
+            "texto": "Dios eterno tu luz por siempre brillara"
+          },
+          {
+            "acordes": "        Am        F       C     G",
+            "texto": "Y tu gloria incomparable sin final"
+          },
+          {
+            "acordes": "       C         F         G      Am",
+            "texto": "El clamor de mi ser es contigo estar"
+          },
+          {
+            "acordes": "       F       G          F     G",
+            "texto": "Desde mi interior mi alma clamara"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "titulo": "Oceanos",
+    "artista": "Evan Craft",
+    "tono": "Bm",
+    "genero": "Adoración",
+    "youtubeId": "rbHIRvfNxBA",
+    "letra": [
+      {
+        "tipo": "intro",
+        "etiqueta": "Intro",
+        "lineas": [
+          {
+            "acordes": "Bm  A/C#  D  A  G",
+            "texto": ""
+          }
+        ]
+      },
+      {
+        "tipo": "verso",
+        "etiqueta": "Primera Parte",
+        "lineas": [
+          {
+            "acordes": " Bm              A/C#  D",
+            "texto": "Tu voz me llama a las aguas"
+          },
+          {
+            "acordes": "        A/C#               G",
+            "texto": "Donde mis pies pueden fallar"
+          },
+          {
+            "acordes": " Bm                 A/C#  D",
+            "texto": "Y ahí te encuentro en lo incierto"
+          },
+          {
+            "acordes": "       A       G",
+            "texto": "Caminaré sobre el mar"
+          }
+        ]
+      },
+      {
+        "tipo": "coro",
+        "etiqueta": "Estribillo",
+        "lineas": [
+          {
+            "acordes": "G      D       A",
+            "texto": "A tu nombre clamaré"
+          },
+          {
+            "acordes": "G      D         A",
+            "texto": "En ti mis ojos fijaré"
+          },
+          {
+            "acordes": "       G",
+            "texto": "En tempestad"
+          },
+          {
+            "acordes": "     D             A",
+            "texto": "Descansaré en tu poder"
+          },
+          {
+            "acordes": "           G  A",
+            "texto": "Pues tuyo soy hasta el final"
+          }
+        ]
+      },
+      {
+        "tipo": "intro",
+        "etiqueta": "Interludio",
+        "lineas": [
+          {
+            "acordes": "Bm  A/C#  D  A  G",
+            "texto": ""
+          }
+        ]
+      },
+      {
+        "tipo": "verso",
+        "etiqueta": "Segunda Parte",
+        "lineas": [
+          {
+            "acordes": " Bm              A/C# D",
+            "texto": "Tu gracia abunda en la tormenta"
+          },
+          {
+            "acordes": "       A            G",
+            "texto": "Tu mano Dios, me guiará"
+          },
+          {
+            "acordes": "Bm               A/C#  D",
+            "texto": "Cuando hay temor en mi camino"
+          },
+          {
+            "acordes": "  A           G",
+            "texto": "Tú eres fiel y no cambiarás"
+          }
+        ]
+      },
+      {
+        "tipo": "coro",
+        "etiqueta": "Estribillo",
+        "lineas": [
+          {
+            "acordes": "G      D       A",
+            "texto": "A tu nombre clamaré"
+          },
+          {
+            "acordes": "G      D         A",
+            "texto": "En ti mis ojos fijaré"
+          },
+          {
+            "acordes": "       G",
+            "texto": "En tempestad"
+          },
+          {
+            "acordes": "     D             A",
+            "texto": "Descansaré en tu poder"
+          },
+          {
+            "acordes": "           G  A",
+            "texto": "Pues tuyo soy hasta el final"
+          }
+        ]
+      },
+      {
+        "tipo": "intro",
+        "etiqueta": "Interludio",
+        "lineas": [
+          {
+            "acordes": "Bm  A  D  A  G",
+            "texto": ""
+          }
+        ]
+      },
+      {
+        "tipo": "puente",
+        "etiqueta": "Puente",
+        "lineas": [
+          {
+            "acordes": "Bm                        G",
+            "texto": "   Que tu Espíritu me guíe sin fronteras"
+          },
+          {
+            "acordes": "       D",
+            "texto": "Más allá de las barreras"
+          },
+          {
+            "acordes": "         A",
+            "texto": "A donde tú me llames"
+          },
+          {
+            "acordes": "Bm                  G",
+            "texto": "Tú me llevas más alla de lo soñado"
+          },
+          {
+            "acordes": "        D",
+            "texto": "Donde puedo estar confiado"
+          },
+          {
+            "acordes": "    A",
+            "texto": "Al estar en tu presencia"
+          }
+        ]
+      },
+      {
+        "tipo": "coro",
+        "etiqueta": "Estribillo Final",
+        "lineas": [
+          {
+            "acordes": "G      D       A",
+            "texto": "A tu nombre clamaré"
+          },
+          {
+            "acordes": "G      D         A",
+            "texto": "En ti mis ojos fijaré"
+          },
+          {
+            "acordes": "       G",
+            "texto": "En tempestad"
+          },
+          {
+            "acordes": "     D             A",
+            "texto": "Descansaré en tu poder"
+          },
+          {
+            "acordes": "           G  D",
+            "texto": "Pues tuyo soy hasta el final"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "titulo": "Gracia Sublime Es",
+    "artista": "En Espiritu Y En Verdad",
+    "tono": "B",
+    "genero": "Alabanza",
+    "youtubeId": "0pOVNIsyIXM",
+    "letra": [
+      {
+        "tipo": "intro",
+        "etiqueta": "Intro",
+        "lineas": [
+          {
+            "acordes": "B  E  B  E",
+            "texto": ""
+          }
+        ]
+      },
+      {
+        "tipo": "verso",
+        "etiqueta": "Primera Parte",
+        "lineas": [
+          {
+            "acordes": "B",
+            "texto": "  Quien rompe el poder del pecado"
+          },
+          {
+            "acordes": "E",
+            "texto": "  Su amor es fuerte y poderoso"
+          },
+          {
+            "acordes": "G#m                  F#                 E",
+            "texto": "    El rey de gloria    el rey de majestad"
+          },
+          {
+            "acordes": "B",
+            "texto": "  Conmueve al mundo con su estruendo"
+          },
+          {
+            "acordes": "E",
+            "texto": "  Y nos asombra con maravillas"
+          },
+          {
+            "acordes": "G#m                  F#                 E",
+            "texto": "    El rey de gloria    el rey de majestad"
+          }
+        ]
+      },
+      {
+        "tipo": "coro",
+        "etiqueta": "Estribillo",
+        "lineas": [
+          {
+            "acordes": "               B                    E",
+            "texto": "Gracia sublime es, perfecto es tu amor"
+          },
+          {
+            "acordes": "              G#m                 F#",
+            "texto": "Tomaste mi lugar cargaste tu mi cruz"
+          },
+          {
+            "acordes": "                B                E",
+            "texto": "Tu vida diste ahí y ahora libre soy"
+          },
+          {
+            "acordes": "G#m                F#                        B  E",
+            "texto": "    Jesús te adoro    por lo que hiciste en mí"
+          }
+        ]
+      },
+      {
+        "tipo": "verso",
+        "etiqueta": "Segunda Parte",
+        "lineas": [
+          {
+            "acordes": "B",
+            "texto": "  Pusiste en orden todo el caos"
+          },
+          {
+            "acordes": "E",
+            "texto": "  Nos adoptaste  como tus hijos"
+          },
+          {
+            "acordes": "G#m                  F#",
+            "texto": "    El rey de gloria    el rey de gloria"
+          },
+          {
+            "acordes": "B",
+            "texto": "  El que gobierna con su justicia"
+          },
+          {
+            "acordes": "E",
+            "texto": "  Y resplandece con su belleza"
+          },
+          {
+            "acordes": "G#m                  F#                 E",
+            "texto": "    El rey de gloria    el rey de majestad"
+          }
+        ]
+      },
+      {
+        "tipo": "coro",
+        "etiqueta": "Estribillo",
+        "lineas": [
+          {
+            "acordes": "               B                    E",
+            "texto": "Gracia sublime es, perfecto es tu amor"
+          },
+          {
+            "acordes": "              G#m                 F#",
+            "texto": "Tomaste mi lugar cargaste tu mi cruz"
+          },
+          {
+            "acordes": "                B                E",
+            "texto": "Tu vida diste ahí y ahora libre soy"
+          },
+          {
+            "acordes": "G#m                F#                        B",
+            "texto": "    Jesús te adoro    por lo que hiciste en mí"
+          }
+        ]
+      },
+      {
+        "tipo": "intro",
+        "etiqueta": "Interludio",
+        "lineas": [
+          {
+            "acordes": "E  B  E",
+            "texto": ""
+          }
+        ]
+      },
+      {
+        "tipo": "puente",
+        "etiqueta": "Puente",
+        "lineas": [
+          {
+            "acordes": " B",
+            "texto": "Digno es el cordero de Dios"
+          },
+          {
+            "acordes": " E",
+            "texto": "Digno es el rey que la muerte venció"
+          },
+          {
+            "acordes": " B",
+            "texto": "Digno es el cordero de Dios"
+          },
+          {
+            "acordes": " E",
+            "texto": "Digno es el rey que la muerte venció"
+          },
+          {
+            "acordes": " B",
+            "texto": "Digno es el cordero de Dios"
+          },
+          {
+            "acordes": " E",
+            "texto": "Digno es el rey que la muerte venció"
+          },
+          {
+            "acordes": " B",
+            "texto": "Digno es el cordero de Dios"
+          },
+          {
+            "acordes": " E",
+            "texto": "Digno es el rey que la muerte venció"
+          },
+          {
+            "acordes": " B",
+            "texto": "Digno es el cordero de Dios"
+          },
+          {
+            "acordes": " E",
+            "texto": "Digno es el rey que la muerte venció"
+          },
+          {
+            "acordes": " B",
+            "texto": "Digno es el cordero de Dios"
+          },
+          {
+            "acordes": " E",
+            "texto": "Digno es el rey que la muerte venció"
+          },
+          {
+            "acordes": " B",
+            "texto": "Digno es el cordero de Dios"
+          },
+          {
+            "acordes": " E",
+            "texto": "Tu eres digno"
+          }
+        ]
+      },
+      {
+        "tipo": "coro",
+        "etiqueta": "Estribillo",
+        "lineas": [
+          {
+            "acordes": "               B                    E",
+            "texto": "Gracia sublime es, perfecto es tu amor"
+          },
+          {
+            "acordes": "              G#m                 F#",
+            "texto": "Tomaste mi lugar cargaste tu mi cruz"
+          },
+          {
+            "acordes": "                B                E",
+            "texto": "Tu vida diste ahí y ahora libre soy"
+          },
+          {
+            "acordes": "G#m                F#                        B",
+            "texto": "    Jesús te adoro    por lo que hiciste en mí"
+          }
+        ]
+      },
+      {
+        "tipo": "intro",
+        "etiqueta": "Final",
+        "lineas": [
+          {
+            "acordes": "E  B  E  B",
+            "texto": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "titulo": "Creo En Ti",
+    "artista": "Julio Melgar",
+    "tono": "D",
+    "genero": "Adoración",
+    "youtubeId": "xJ_ZZkM5fGY",
+    "letra": [
+      {
+        "tipo": "intro",
+        "etiqueta": "Intro",
+        "lineas": [
+          {
+            "acordes": "G  A  D/F#",
+            "texto": ""
+          },
+          {
+            "acordes": "G  A  Bm",
+            "texto": ""
+          },
+          {
+            "acordes": "G  A  D/F#",
+            "texto": ""
+          },
+          {
+            "acordes": "G  A  Bm",
+            "texto": ""
+          }
+        ]
+      },
+      {
+        "tipo": "verso",
+        "etiqueta": "Primera Parte",
+        "lineas": [
+          {
+            "acordes": "                     G9",
+            "texto": "Quiero levantar a Ti    mis manos"
+          },
+          {
+            "acordes": "        D2               A9",
+            "texto": "Maravilloso Jesús, milagroso Señor"
+          },
+          {
+            "acordes": "  Bm                   G9",
+            "texto": "Llena este lugar de Tu    presencia"
+          },
+          {
+            "acordes": "             D2",
+            "texto": "Y haz descender Tu poder"
+          },
+          {
+            "acordes": "             A9",
+            "texto": "A los que estamos aquí"
+          }
+        ]
+      },
+      {
+        "tipo": "puente",
+        "etiqueta": "Pre-Estribillo",
+        "lineas": [
+          {
+            "acordes": "         Bm  A  G",
+            "texto": "Creo en Ti, Je___sús"
+          },
+          {
+            "acordes": "               Bm  A   G",
+            "texto": "Y en lo que harás  en mi"
+          },
+          {
+            "acordes": "         Bm  A  G",
+            "texto": "Creo en Ti, Je___sús"
+          },
+          {
+            "acordes": "               Bm  A   G",
+            "texto": "Y en lo que harás  en mi"
+          },
+          {
+            "acordes": "    D      A",
+            "texto": "En mi, en mi (recibe)"
+          }
+        ]
+      },
+      {
+        "tipo": "coro",
+        "etiqueta": "Estribillo",
+        "lineas": [
+          {
+            "acordes": " Bm",
+            "texto": "Toda la gloria, recibe"
+          },
+          {
+            "acordes": " G9",
+            "texto": "Toda la honra"
+          },
+          {
+            "acordes": "     D             A9",
+            "texto": "Precioso Hijo de Dios (recibe)"
+          },
+          {
+            "acordes": " Bm",
+            "texto": "Toda la gloria, recibe"
+          },
+          {
+            "acordes": " G9",
+            "texto": "Toda la honra"
+          },
+          {
+            "acordes": "     D             A9",
+            "texto": "Precioso Hijo de Dios"
+          }
+        ]
+      },
+      {
+        "tipo": "verso",
+        "etiqueta": "Primera Parte",
+        "lineas": [
+          {
+            "acordes": "   Bm              G",
+            "texto": "Quiero levantar a Ti mis manos"
+          },
+          {
+            "acordes": "        D                A9",
+            "texto": "Maravilloso Jesús, milagroso Señor"
+          },
+          {
+            "acordes": "  Bm                   G",
+            "texto": "Llena este lugar de Tu   presencia"
+          },
+          {
+            "acordes": "       D",
+            "texto": "Y haz descender Tu poder"
+          },
+          {
+            "acordes": "             A",
+            "texto": "A los que estamos aquí"
+          }
+        ]
+      },
+      {
+        "tipo": "puente",
+        "etiqueta": "Pre-Estribillo",
+        "lineas": [
+          {
+            "acordes": "         Bm  A  G",
+            "texto": "Creo en Ti, Je___sús"
+          },
+          {
+            "acordes": "               Bm  A   G",
+            "texto": "Y en lo que harás  en mi"
+          },
+          {
+            "acordes": "         Bm  A  G9",
+            "texto": "Creo en Ti, Je____sús"
+          },
+          {
+            "acordes": "               Bm  A   G",
+            "texto": "Y en lo que harás  en mi"
+          },
+          {
+            "acordes": "    D      A",
+            "texto": "En mi, en mi (recibe)"
+          }
+        ]
+      },
+      {
+        "tipo": "coro",
+        "etiqueta": "Estribillo",
+        "lineas": [
+          {
+            "acordes": " Bm",
+            "texto": "Toda la gloria, recibe"
+          },
+          {
+            "acordes": " G9",
+            "texto": "Toda la honra"
+          },
+          {
+            "acordes": "     D             A9",
+            "texto": "Precioso Hijo de Dios (recibe)"
+          },
+          {
+            "acordes": " Bm",
+            "texto": "Toda la gloria, recibe"
+          },
+          {
+            "acordes": " G9",
+            "texto": "Toda la honra"
+          },
+          {
+            "acordes": "     D             A  A9",
+            "texto": "Precioso Hijo de Dios"
+          }
+        ]
+      },
+      {
+        "tipo": "intro",
+        "etiqueta": "Solo",
+        "lineas": [
+          {
+            "acordes": "Bm  G9  D  A9",
+            "texto": ""
+          },
+          {
+            "acordes": "Bm  G9  D  A",
+            "texto": ""
+          }
+        ]
+      },
+      {
+        "tipo": "coro",
+        "etiqueta": "Estribillo",
+        "lineas": [
+          {
+            "acordes": "          Bm",
+            "texto": "(Recibe) Toda la gloria, recibe"
+          },
+          {
+            "acordes": " G9",
+            "texto": "Toda la honra"
+          },
+          {
+            "acordes": "     D             A9",
+            "texto": "Precioso Hijo de Dios (recibe)"
+          },
+          {
+            "acordes": " Bm",
+            "texto": "Toda la gloria, recibe"
+          },
+          {
+            "acordes": " G",
+            "texto": "Toda la honra"
+          },
+          {
+            "acordes": "     D             A",
+            "texto": "Precioso Hijo de Dios"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "titulo": "Tu Amor No Tiene Fin",
+    "artista": "Generación 12",
+    "tono": "E",
+    "genero": "Transición",
+    "youtubeId": "-fz292HNU_w",
+    "letra": [
+      {
+        "tipo": "coro",
+        "etiqueta": "Refrán",
+        "lineas": [
+          {
+            "acordes": "A                           C#m",
+            "texto": "  Corro a los brazos de mi Padre"
+          },
+          {
+            "acordes": "      E               B",
+            "texto": "Te escucho decir: Mi hijo eres tú"
+          },
+          {
+            "acordes": "A                            C#m",
+            "texto": "  Me acerco al trono de tu gracia"
+          },
+          {
+            "acordes": "    E",
+            "texto": "Me rindo ante ti"
+          },
+          {
+            "acordes": "        B",
+            "texto": "Es tu amor para mí"
+          },
+          {
+            "acordes": "",
+            "texto": ""
+          },
+          {
+            "acordes": "A                           C#m",
+            "texto": "  Corro a los brazos de mi Padre"
+          },
+          {
+            "acordes": "      E               B",
+            "texto": "Te escucho decir: Mi hijo eres tú"
+          },
+          {
+            "acordes": "A                            C#m",
+            "texto": "  Me acerco al trono de tu gracia"
+          },
+          {
+            "acordes": "    E                 B          A",
+            "texto": "Me rindo ante ti, tu amor no tiene fin"
+          }
+        ]
+      },
+      {
+        "tipo": "puente",
+        "etiqueta": "Puente",
+        "lineas": [
+          {
+            "acordes": " A",
+            "texto": "Tu la única fuente saciable"
+          },
+          {
+            "acordes": " C#m",
+            "texto": "Tu para mi alma tan favorable"
+          },
+          {
+            "acordes": "   E",
+            "texto": "Y yo quiero ser ofrenda agradable"
+          },
+          {
+            "acordes": "     B",
+            "texto": "Y poder corresponder"
+          },
+          {
+            "acordes": "                     A",
+            "texto": "A tu amor inagotable"
+          },
+          {
+            "acordes": "",
+            "texto": ""
+          },
+          {
+            "acordes": "A",
+            "texto": "Incomprensible es lo mucho que me amas"
+          },
+          {
+            "acordes": "    C#m",
+            "texto": "Y que me digas: Hijo mío cuando me llamas"
+          },
+          {
+            "acordes": "E",
+            "texto": "  Derramas en mi vida de tu presencia"
+          },
+          {
+            "acordes": "B                                    A",
+            "texto": "     Hoy anhelo sentirte con emergencia"
+          },
+          {
+            "acordes": "",
+            "texto": ""
+          },
+          {
+            "acordes": "A",
+            "texto": "Jamás he de dejarte siempre he de servirte"
+          },
+          {
+            "acordes": "C#m",
+            "texto": "    Comprendo que nací para glorificarte"
+          },
+          {
+            "acordes": "E",
+            "texto": "  Voy a seguirte voy tras tus pasos"
+          },
+          {
+            "acordes": "B",
+            "texto": "     Y si me canso descanso en tus brazos"
+          },
+          {
+            "acordes": "A",
+            "texto": "  Adonde iré sino a ti Padre Bendito"
+          },
+          {
+            "acordes": "    C#m",
+            "texto": "Nadie mejor que tu sabe lo que necesito"
+          },
+          {
+            "acordes": "E",
+            "texto": "  Abrázame, Háblame, lléname"
+          },
+          {
+            "acordes": "B",
+            "texto": "     Restáurame, enamórame"
+          }
+        ]
+      },
+      {
+        "tipo": "coro",
+        "etiqueta": "Refrán",
+        "lineas": [
+          {
+            "acordes": "A                           C#m",
+            "texto": "  Corro a los brazos de mi Padre"
+          },
+          {
+            "acordes": "      E               B",
+            "texto": "Te escucho decir: Mi hijo eres tú"
+          },
+          {
+            "acordes": "A                            C#m",
+            "texto": "  Me acerco al trono de tu gracia"
+          },
+          {
+            "acordes": "    E",
+            "texto": "Me rindo ante ti"
+          },
+          {
+            "acordes": "        B",
+            "texto": "Es tu amor para mí"
+          },
+          {
+            "acordes": "",
+            "texto": ""
+          },
+          {
+            "acordes": "A                           C#m",
+            "texto": "  Corro a los brazos de mi Padre"
+          },
+          {
+            "acordes": "      E               B",
+            "texto": "Te escucho decir: Mi hijo eres tú"
+          },
+          {
+            "acordes": "A                            C#m",
+            "texto": "  Me acerco al trono de tu gracia"
+          },
+          {
+            "acordes": "    E                 B          A",
+            "texto": "Me rindo ante ti, tu amor no tiene fin"
+          }
+        ]
+      },
+      {
+        "tipo": "intro",
+        "etiqueta": "Final",
+        "lineas": [
+          {
+            "acordes": "C#m  E  B",
+            "texto": ""
+          },
+          {
+            "acordes": "A  C#m  E  B",
+            "texto": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "titulo": "Cuán Grande Es Dios",
+    "artista": "En Espiritu Y En Verdad",
+    "tono": "C",
+    "genero": "Adoración",
+    "youtubeId": "yhSQZHZZy08",
+    "letra": [
+      {
+        "tipo": "intro",
+        "etiqueta": "Intro",
+        "lineas": [
+          {
+            "acordes": "C",
+            "texto": ""
+          }
+        ]
+      },
+      {
+        "tipo": "verso",
+        "etiqueta": "Primera Parte",
+        "lineas": [
+          {
+            "acordes": "   C                   G/B",
+            "texto": "El esplendor de un Rey"
+          },
+          {
+            "acordes": "    Am",
+            "texto": "Vestido en majestad"
+          },
+          {
+            "acordes": "                    F",
+            "texto": "La Tierra alegre está"
+          },
+          {
+            "acordes": "                    G",
+            "texto": "La Tierra alegre está"
+          },
+          {
+            "acordes": "",
+            "texto": ""
+          },
+          {
+            "acordes": "    C                G/B",
+            "texto": "Cubierto está de luz"
+          },
+          {
+            "acordes": "     Am",
+            "texto": "Venció a la oscuridad"
+          },
+          {
+            "acordes": "                F",
+            "texto": "Y tiembla a su voz"
+          },
+          {
+            "acordes": "              G",
+            "texto": "Tiembla a su voz"
+          }
+        ]
+      },
+      {
+        "tipo": "coro",
+        "etiqueta": "Estribillo",
+        "lineas": [
+          {
+            "acordes": "       C",
+            "texto": "Cuán grande es Dios"
+          },
+          {
+            "acordes": "      G/B       Am",
+            "texto": "Cántale, cuán grande es Dios"
+          },
+          {
+            "acordes": "              F",
+            "texto": "Y todos lo verán"
+          },
+          {
+            "acordes": "       G         C",
+            "texto": "Cuán grande es Dios"
+          }
+        ]
+      },
+      {
+        "tipo": "verso",
+        "etiqueta": "Primera Parte",
+        "lineas": [
+          {
+            "acordes": "   C                   G/B",
+            "texto": "El esplendor de un Rey"
+          },
+          {
+            "acordes": "    Am",
+            "texto": "Vestido en majestad"
+          },
+          {
+            "acordes": "                    F",
+            "texto": "La Tierra alegre está"
+          },
+          {
+            "acordes": "                    G",
+            "texto": "La Tierra alegre está"
+          },
+          {
+            "acordes": "",
+            "texto": ""
+          },
+          {
+            "acordes": "    C                G/B",
+            "texto": "Cubierto está de luz"
+          },
+          {
+            "acordes": "     Am",
+            "texto": "Venció a la oscuridad"
+          },
+          {
+            "acordes": "                F",
+            "texto": "Y tiembla a su voz"
+          },
+          {
+            "acordes": "              G",
+            "texto": "Tiembla a su voz"
+          }
+        ]
+      },
+      {
+        "tipo": "coro",
+        "etiqueta": "Estribillo",
+        "lineas": [
+          {
+            "acordes": "       C",
+            "texto": "Cuán grande es Dios"
+          },
+          {
+            "acordes": "      G/B       Am",
+            "texto": "Cántale, cuán grande es Dios"
+          },
+          {
+            "acordes": "              F",
+            "texto": "Y todos lo verán"
+          },
+          {
+            "acordes": "       G         C",
+            "texto": "Cuán grande es Dios"
+          },
+          {
+            "acordes": "",
+            "texto": ""
+          },
+          {
+            "acordes": "       C",
+            "texto": "Cuán grande es Dios"
+          },
+          {
+            "acordes": "      G/B       Am",
+            "texto": "Cántale, cuán grande es Dios"
+          },
+          {
+            "acordes": "              F",
+            "texto": "Y todos lo verán"
+          },
+          {
+            "acordes": "       G         C",
+            "texto": "Cuán grande es Dios"
+          }
+        ]
+      },
+      {
+        "tipo": "verso",
+        "etiqueta": "Segunda Parte",
+        "lineas": [
+          {
+            "acordes": " C                G/B",
+            "texto": "Día a día El está"
+          },
+          {
+            "acordes": "       Am",
+            "texto": "Y el tiempo está en El"
+          },
+          {
+            "acordes": "                F",
+            "texto": "Principio y el fin"
+          },
+          {
+            "acordes": "                G",
+            "texto": "Principio y el fin"
+          },
+          {
+            "acordes": "",
+            "texto": ""
+          },
+          {
+            "acordes": "     C              G/B",
+            "texto": "La Trinidad en Dios"
+          },
+          {
+            "acordes": "    Am",
+            "texto": "El Padre, Hijo, Espíritu"
+          },
+          {
+            "acordes": "               F",
+            "texto": "Cordero y el León"
+          },
+          {
+            "acordes": "               G",
+            "texto": "Cordero y el León"
+          }
+        ]
+      },
+      {
+        "tipo": "coro",
+        "etiqueta": "Estribillo",
+        "lineas": [
+          {
+            "acordes": "       C",
+            "texto": "Cuán grande es Dios"
+          },
+          {
+            "acordes": "      G/B       Am",
+            "texto": "Cántale, cuán grande es Dios"
+          },
+          {
+            "acordes": "              F",
+            "texto": "Y todos lo verán"
+          },
+          {
+            "acordes": "       G         C",
+            "texto": "Cuán grande es Dios"
+          },
+          {
+            "acordes": "",
+            "texto": ""
+          },
+          {
+            "acordes": "       C",
+            "texto": "Cuán grande es Dios"
+          },
+          {
+            "acordes": "      G/B       Am",
+            "texto": "Cántale, cuán grande es Dios"
+          },
+          {
+            "acordes": "              F",
+            "texto": "Y todos lo verán"
+          },
+          {
+            "acordes": "       G         C",
+            "texto": "Cuán grande es Dios"
+          }
+        ]
+      },
+      {
+        "tipo": "verso",
+        "etiqueta": "Tercera Parte",
+        "lineas": [
+          {
+            "acordes": "              C",
+            "texto": "Tu Nombre sobre todo es"
+          },
+          {
+            "acordes": "G/B   Am",
+            "texto": "Eres digno de alabar"
+          },
+          {
+            "acordes": "      F",
+            "texto": "Y mi ser dirá"
+          },
+          {
+            "acordes": "       G        C",
+            "texto": "Cuan grande es Dios"
+          },
+          {
+            "acordes": "",
+            "texto": ""
+          },
+          {
+            "acordes": "              C",
+            "texto": "Tu Nombre sobre todo es"
+          },
+          {
+            "acordes": "G/B   Am",
+            "texto": "Eres Digno de alabar"
+          },
+          {
+            "acordes": "      F",
+            "texto": "Y mi ser dirá"
+          },
+          {
+            "acordes": "       G        C",
+            "texto": "Cuan grande es Dios"
+          }
+        ]
+      },
+      {
+        "tipo": "coro",
+        "etiqueta": "Estribillo",
+        "lineas": [
+          {
+            "acordes": "       C",
+            "texto": "Cuán grande es Dios"
+          },
+          {
+            "acordes": "      G/B       Am",
+            "texto": "Cántale, cuán grande es Dios"
+          },
+          {
+            "acordes": "              F",
+            "texto": "Y todos lo verán"
+          },
+          {
+            "acordes": "       G         C",
+            "texto": "Cuán grande es Dios"
+          },
+          {
+            "acordes": "",
+            "texto": ""
+          },
+          {
+            "acordes": "       C",
+            "texto": "Cuán grande es Dios"
+          },
+          {
+            "acordes": "      G/B       Am",
+            "texto": "Cántale, cuán grande es Dios"
+          },
+          {
+            "acordes": "              F",
+            "texto": "Y todos lo verán"
+          },
+          {
+            "acordes": "       G         C",
+            "texto": "Cuán grande es Dios"
+          },
+          {
+            "acordes": "",
+            "texto": ""
+          },
+          {
+            "acordes": "       C",
+            "texto": "Cuán grande es Dios"
+          },
+          {
+            "acordes": "      G/B       Am",
+            "texto": "Cántale, cuán grande es Dios"
+          },
+          {
+            "acordes": "              F",
+            "texto": "Y todos lo verán"
+          },
+          {
+            "acordes": "       G         C",
+            "texto": "Cuán grande es Dios"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "titulo": "Abre Mis Ojos Oh Cristo",
+    "artista": "Danilo Montero",
+    "tono": "E",
+    "genero": "Alabanza",
+    "youtubeId": "sAm49exVyZc",
+    "letra": [
+      {
+        "tipo": "intro",
+        "etiqueta": "Intro",
+        "lineas": [
+          {
+            "acordes": "E  B/D#  A  E",
+            "texto": ""
+          }
+        ]
+      },
+      {
+        "tipo": "verso",
+        "etiqueta": "Primera Parte",
+        "lineas": [
+          {
+            "acordes": "E",
+            "texto": "Abre mis ojos oh Cristo"
+          },
+          {
+            "acordes": "B/D#",
+            "texto": "Abre mis ojos Te pido"
+          },
+          {
+            "acordes": "           E/A  E",
+            "texto": "Yo quiero ver__te"
+          },
+          {
+            "acordes": "           E/A  E",
+            "texto": "Yo quiero ver__te"
+          },
+          {
+            "acordes": "",
+            "texto": ""
+          },
+          {
+            "acordes": "E",
+            "texto": "Abre mis ojos oh Cristo"
+          },
+          {
+            "acordes": "B/D#",
+            "texto": "Abre mis ojos Te pido"
+          },
+          {
+            "acordes": "           E/A  E",
+            "texto": "Yo quiero ver__te"
+          },
+          {
+            "acordes": "           E/A  E",
+            "texto": "Yo quiero ver__te"
+          }
+        ]
+      },
+      {
+        "tipo": "coro",
+        "etiqueta": "Estribillo",
+        "lineas": [
+          {
+            "acordes": "          B           C#m",
+            "texto": "Y contemplar Tu Majestad"
+          },
+          {
+            "acordes": "A                       B4",
+            "texto": "Y el resplandor de Tu Gloria"
+          },
+          {
+            "acordes": "    B                C#m",
+            "texto": "Derrama Tu amor y poder"
+          },
+          {
+            "acordes": "           A",
+            "texto": "Cuando cantamos"
+          },
+          {
+            "acordes": "           B",
+            "texto": "Santo, Santo"
+          },
+          {
+            "acordes": "",
+            "texto": ""
+          },
+          {
+            "acordes": "                      C#m",
+            "texto": "Y contemplar Tu Majestad"
+          },
+          {
+            "acordes": "A                       B4",
+            "texto": "Y el resplandor de Tu Gloria"
+          },
+          {
+            "acordes": "    B                C#m",
+            "texto": "Derrama Tu amor y poder"
+          },
+          {
+            "acordes": "           A",
+            "texto": "Cuando cantamos"
+          },
+          {
+            "acordes": "           B",
+            "texto": "Santo, Santo"
+          }
+        ]
+      },
+      {
+        "tipo": "puente",
+        "etiqueta": "Puente",
+        "lineas": [
+          {
+            "acordes": " E",
+            "texto": "Santo, Santo, Santo"
+          },
+          {
+            "acordes": " B/D#",
+            "texto": "Santo, Santo, Santo"
+          },
+          {
+            "acordes": " A",
+            "texto": "Santo, Santo, Santo"
+          },
+          {
+            "acordes": "           E4  E",
+            "texto": "Yo quiero ver_te"
+          },
+          {
+            "acordes": "",
+            "texto": ""
+          },
+          {
+            "acordes": "",
+            "texto": "Santo, Santo, Santo"
+          },
+          {
+            "acordes": " B/D#",
+            "texto": "Santo, Santo, Santo"
+          },
+          {
+            "acordes": " A",
+            "texto": "Santo, Santo, Santo"
+          },
+          {
+            "acordes": "           E4  E",
+            "texto": "Yo quiero ver_te"
+          }
+        ]
+      },
+      {
+        "tipo": "verso",
+        "etiqueta": "Primera Parte",
+        "lineas": [
+          {
+            "acordes": "E",
+            "texto": "Abre mis ojos oh Cristo"
+          },
+          {
+            "acordes": "B/D#",
+            "texto": "Abre mis ojos Te pido"
+          },
+          {
+            "acordes": "           E/A  E",
+            "texto": "Yo quiero ver__te"
+          },
+          {
+            "acordes": "           E/A  E",
+            "texto": "Yo quiero ver__te"
+          },
+          {
+            "acordes": "",
+            "texto": ""
+          },
+          {
+            "acordes": "E",
+            "texto": "Abre mis ojos oh Cristo"
+          },
+          {
+            "acordes": "B/D#",
+            "texto": "Abre mis ojos Te pido"
+          },
+          {
+            "acordes": "           E/A  E",
+            "texto": "Yo quiero ver__te"
+          },
+          {
+            "acordes": "           E/A  E",
+            "texto": "Yo quiero ver__te"
+          }
+        ]
+      },
+      {
+        "tipo": "coro",
+        "etiqueta": "Estribillo",
+        "lineas": [
+          {
+            "acordes": "          B           C#m",
+            "texto": "Y contemplar Tu Majestad"
+          },
+          {
+            "acordes": "A                       B4",
+            "texto": "Y el resplandor de Tu Gloria"
+          },
+          {
+            "acordes": "    B                C#m",
+            "texto": "Derrama Tu amor y poder"
+          },
+          {
+            "acordes": "           A",
+            "texto": "Cuando cantamos"
+          },
+          {
+            "acordes": "           B",
+            "texto": "Santo, Santo"
+          },
+          {
+            "acordes": "",
+            "texto": ""
+          },
+          {
+            "acordes": "                      C#m",
+            "texto": "Y contemplar Tu Majestad"
+          },
+          {
+            "acordes": "A                       B4",
+            "texto": "Y el resplandor de Tu Gloria"
+          },
+          {
+            "acordes": "    B                C#m",
+            "texto": "Derrama Tu amor y poder"
+          },
+          {
+            "acordes": "           A",
+            "texto": "Cuando cantamos"
+          },
+          {
+            "acordes": "           B",
+            "texto": "Santo, Santo"
+          }
+        ]
+      },
+      {
+        "tipo": "puente",
+        "etiqueta": "Puente",
+        "lineas": [
+          {
+            "acordes": " E",
+            "texto": "Santo, Santo, Santo"
+          },
+          {
+            "acordes": " B/D#",
+            "texto": "Santo, Santo, Santo"
+          },
+          {
+            "acordes": " A",
+            "texto": "Santo, Santo, Santo"
+          },
+          {
+            "acordes": "           E4  E",
+            "texto": "Yo quiero ver_te"
+          },
+          {
+            "acordes": "",
+            "texto": ""
+          },
+          {
+            "acordes": "",
+            "texto": "Santo, Santo, Santo"
+          },
+          {
+            "acordes": " B/D#",
+            "texto": "Santo, Santo, Santo"
+          },
+          {
+            "acordes": " A",
+            "texto": "Santo, Santo, Santo"
+          },
+          {
+            "acordes": "           E4  E",
+            "texto": "Yo quiero ver_te"
+          }
+        ]
+      },
+      {
+        "tipo": "coro",
+        "etiqueta": "Estribillo",
+        "lineas": [
+          {
+            "acordes": "          B           C#m",
+            "texto": "Y contemplar Tu Majestad"
+          },
+          {
+            "acordes": "A                       B4",
+            "texto": "Y el resplandor de Tu Gloria"
+          },
+          {
+            "acordes": "    B                C#m",
+            "texto": "Derrama Tu amor y poder"
+          },
+          {
+            "acordes": "           A",
+            "texto": "Cuando cantamos"
+          },
+          {
+            "acordes": "           B",
+            "texto": "Santo, Santo"
+          },
+          {
+            "acordes": "",
+            "texto": ""
+          },
+          {
+            "acordes": "                      C#m",
+            "texto": "Y contemplar Tu Majestad"
+          },
+          {
+            "acordes": "A                       B4",
+            "texto": "Y el resplandor de Tu Gloria"
+          },
+          {
+            "acordes": "    B                C#m",
+            "texto": "Derrama Tu amor y poder"
+          },
+          {
+            "acordes": "           A",
+            "texto": "Cuando cantamos"
+          },
+          {
+            "acordes": "           B",
+            "texto": "Santo, Santo"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "titulo": "Cante Al Señor",
+    "artista": "Ingrid Rosario",
+    "tono": "A",
+    "genero": "Adoración",
+    "youtubeId": "kIsrX9_ld64",
+    "letra": [
+      {
+        "tipo": "verso",
+        "etiqueta": "Verso 1",
+        "lineas": [
+          {
+            "acordes": "A         E",
+            "texto": "Mi cristo, mi rey"
+          },
+          {
+            "acordes": "F#m     E     D",
+            "texto": "Nadie es como Tu"
+          },
+          {
+            "acordes": "      A      D      A",
+            "texto": "Toda mi vida quiero exaltar"
+          },
+          {
+            "acordes": "               G  D    E",
+            "texto": "Las maravillas de Tu amor"
+          },
+          {
+            "acordes": "",
+            "texto": ""
+          },
+          {
+            "acordes": "A      E",
+            "texto": "Consuelo, refugio"
+          },
+          {
+            "acordes": "F#m        E        D",
+            "texto": "Torre de fuerza y poder"
+          },
+          {
+            "acordes": "",
+            "texto": ""
+          },
+          {
+            "acordes": "        A  D            A",
+            "texto": "Todo mi ser, lo que yo soy"
+          },
+          {
+            "acordes": "            G  D   E",
+            "texto": "Nunca cese de adorar"
+          }
+        ]
+      },
+      {
+        "tipo": "coro",
+        "etiqueta": "Estribillo",
+        "lineas": [
+          {
+            "acordes": " A       F#m        D       E",
+            "texto": "Cante al señor toda la creación"
+          },
+          {
+            "acordes": "A        F#m        D          E",
+            "texto": "Honra y poder majestad sean al rey"
+          },
+          {
+            "acordes": "F#m      D          A    E",
+            "texto": "Montes caeran y el mar rugirá"
+          },
+          {
+            "acordes": "   E     D      E",
+            "texto": "Al sonar de su nombre"
+          },
+          {
+            "acordes": "",
+            "texto": ""
+          },
+          {
+            "acordes": " A        F#m       D         E",
+            "texto": "Canto con gozo al mirar tu poder"
+          },
+          {
+            "acordes": " A            F#m    D       E",
+            "texto": "Por siempre yo te amare y dire"
+          },
+          {
+            "acordes": " F#m     D         A        E",
+            "texto": " Incomparables promesas me das señor"
+          },
+          {
+            "acordes": "      F#m     D         A        E       A",
+            "texto": " Incomparables promesas me das Señor"
+          }
+        ]
+      },
+      {
+        "tipo": "verso",
+        "etiqueta": "Verso 1",
+        "lineas": [
+          {
+            "acordes": "A         E",
+            "texto": "Mi cristo, mi rey"
+          },
+          {
+            "acordes": "F#m     E     D",
+            "texto": "Nadie es como Tu"
+          },
+          {
+            "acordes": "      A      D      A",
+            "texto": "Toda mi vida quiero exaltar"
+          },
+          {
+            "acordes": "               G  D    E",
+            "texto": "Las maravillas de Tu amor"
+          },
+          {
+            "acordes": "",
+            "texto": ""
+          },
+          {
+            "acordes": "A      E",
+            "texto": "Consuelo, refugio"
+          },
+          {
+            "acordes": "F#m        E        D",
+            "texto": "Torre de fuerza y poder"
+          },
+          {
+            "acordes": "",
+            "texto": ""
+          },
+          {
+            "acordes": "        A  D            A",
+            "texto": "Todo mi ser, lo que yo soy"
+          },
+          {
+            "acordes": "            G  D   E",
+            "texto": "Nunca cese de adorar"
+          }
+        ]
+      },
+      {
+        "tipo": "coro",
+        "etiqueta": "Estribillo",
+        "lineas": [
+          {
+            "acordes": " A       F#m        D       E",
+            "texto": "Cante al señor toda la creación"
+          },
+          {
+            "acordes": "A        F#m        D          E",
+            "texto": "Honra y poder majestad sean al rey"
+          },
+          {
+            "acordes": "F#m      D          A    E",
+            "texto": "Montes caeran y el mar rugirá"
+          },
+          {
+            "acordes": "   E     D      E",
+            "texto": "Al sonar de su nombre"
+          },
+          {
+            "acordes": "",
+            "texto": ""
+          },
+          {
+            "acordes": " A        F#m       D         E",
+            "texto": "Canto con gozo al mirar tu poder"
+          },
+          {
+            "acordes": " A            F#m    D       E",
+            "texto": "Por siempre yo te amare y dire"
+          },
+          {
+            "acordes": " F#m     D         A        E",
+            "texto": " Incomparables promesas me das señor"
+          },
+          {
+            "acordes": "      F#m     D         A        E       A",
+            "texto": " Incomparables promesas me das Señor"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "titulo": "Admirable",
+    "artista": "Cristine D'Clario",
+    "tono": "C",
+    "genero": "Adoración",
+    "youtubeId": "vQiBdYP1TmI",
+    "letra": [
+      {
+        "tipo": "verso",
+        "etiqueta": "Primera Parte",
+        "lineas": [
+          {
+            "acordes": "    F",
+            "texto": "Él vio mi condición"
+          },
+          {
+            "acordes": "        Am",
+            "texto": "No era nadie"
+          },
+          {
+            "acordes": "         C         G",
+            "texto": "Me hizo uno de su pueblo"
+          },
+          {
+            "acordes": "F                   Am",
+            "texto": "Real sacerdocio escogido por él"
+          },
+          {
+            "acordes": "          C            G",
+            "texto": "Él es mi padre y yo su hijo"
+          }
+        ]
+      },
+      {
+        "tipo": "coro",
+        "etiqueta": "Estribillo",
+        "lineas": [
+          {
+            "acordes": "F              C",
+            "texto": "Admirable consejero"
+          },
+          {
+            "acordes": "Am          G",
+            "texto": "Príncipe de paz"
+          },
+          {
+            "acordes": "F                 C",
+            "texto": "Es aquel que se hizo carne"
+          },
+          {
+            "acordes": "          Am          G",
+            "texto": "Lleno de gracia y verdad"
+          }
+        ]
+      },
+      {
+        "tipo": "verso",
+        "etiqueta": "Primera Parte",
+        "lineas": [
+          {
+            "acordes": "    F",
+            "texto": "Él vio mi condición"
+          },
+          {
+            "acordes": "        Am",
+            "texto": "No era nadie"
+          },
+          {
+            "acordes": "         C         G",
+            "texto": "Me hizo uno de su pueblo"
+          },
+          {
+            "acordes": "F                   Am",
+            "texto": "Real sacerdocio escogido por él"
+          },
+          {
+            "acordes": "          C            G",
+            "texto": "Él es mi padre y yo su hijo"
+          }
+        ]
+      },
+      {
+        "tipo": "coro",
+        "etiqueta": "Estribillo",
+        "lineas": [
+          {
+            "acordes": "F              C",
+            "texto": "Admirable consejero"
+          },
+          {
+            "acordes": "Am          G",
+            "texto": "Príncipe de paz"
+          },
+          {
+            "acordes": "F                 C",
+            "texto": "Es aquel que se hizo carne"
+          },
+          {
+            "acordes": "          Am          G",
+            "texto": "Lleno de gracia y verdad"
+          }
+        ]
+      },
+      {
+        "tipo": "puente",
+        "etiqueta": "Puente",
+        "lineas": [
+          {
+            "acordes": "       Dm",
+            "texto": "La deidad se encarnó"
+          },
+          {
+            "acordes": "     C",
+            "texto": "Tomó forma de hombre"
+          },
+          {
+            "acordes": "Am         G",
+            "texto": "Por amor, por amor"
+          },
+          {
+            "acordes": "    Dm",
+            "texto": "Caminó en humildad"
+          },
+          {
+            "acordes": "         C",
+            "texto": "Y en obediencia sufrió"
+          },
+          {
+            "acordes": "Am         G",
+            "texto": "Por amor, por amor"
+          }
+        ]
+      },
+      {
+        "tipo": "coro",
+        "etiqueta": "Estribillo",
+        "lineas": [
+          {
+            "acordes": "F              C",
+            "texto": "Admirable consejero"
+          },
+          {
+            "acordes": "Am          G",
+            "texto": "Príncipe de paz"
+          },
+          {
+            "acordes": "F                 C",
+            "texto": "Es aquel que se hizo carne"
+          },
+          {
+            "acordes": "          Am          G",
+            "texto": "Lleno de gracia y verdad"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "titulo": "Alaba",
+    "artista": "Evan Craft ft. Intimidad Worship",
+    "tono": "G",
+    "genero": "Alabanza",
+    "youtubeId": "naG_gVo8buc",
+    "letra": [
+      {
+        "tipo": "intro",
+        "etiqueta": "Intro",
+        "lineas": [
+          {
+            "acordes": "",
+            "texto": "Que toda la"
+          },
+          {
+            "acordes": "",
+            "texto": "Creación"
+          },
+          {
+            "acordes": "",
+            "texto": "Alabe a Dios"
+          },
+          {
+            "acordes": "",
+            "texto": "Alabe a Dios"
+          }
+        ]
+      },
+      {
+        "tipo": "verso",
+        "etiqueta": "Primera Parte",
+        "lineas": [
+          {
+            "acordes": "     G",
+            "texto": "Te alabo en el valle"
+          },
+          {
+            "acordes": "     G/A        G",
+            "texto": "Te alabo en el monte"
+          },
+          {
+            "acordes": "     D             C9",
+            "texto": "Te alabo en el día"
+          },
+          {
+            "acordes": "                G",
+            "texto": "Te alabo en la noche"
+          },
+          {
+            "acordes": "",
+            "texto": "Te alabo en el medio"
+          },
+          {
+            "acordes": "   G/A      G",
+            "texto": "Estando rodeado"
+          },
+          {
+            "acordes": "         D",
+            "texto": "Porque cuando alabo"
+          },
+          {
+            "acordes": "C9                G",
+            "texto": "   Tú estás a mi lado"
+          }
+        ]
+      },
+      {
+        "tipo": "puente",
+        "etiqueta": "Pre-Estribillo",
+        "lineas": [
+          {
+            "acordes": "      D",
+            "texto": "Mientras tenga aliento"
+          },
+          {
+            "acordes": " C9",
+            "texto": "Mi alma canta y"
+          }
+        ]
+      },
+      {
+        "tipo": "coro",
+        "etiqueta": "Estribillo",
+        "lineas": [
+          {
+            "acordes": "Em  C       G",
+            "texto": "A__laba a Dios"
+          },
+          {
+            "acordes": "        D",
+            "texto": "Mi corazón"
+          },
+          {
+            "acordes": "Em  C       G",
+            "texto": "A__laba a Dios"
+          },
+          {
+            "acordes": "        D",
+            "texto": "Mi corazón"
+          }
+        ]
+      },
+      {
+        "tipo": "verso",
+        "etiqueta": "Segunda Parte",
+        "lineas": [
+          {
+            "acordes": "     G",
+            "texto": "Te alabo al sentirlo"
+          },
+          {
+            "acordes": "   G/A        G",
+            "texto": "Y aun cuando no"
+          },
+          {
+            "acordes": "     D        C9",
+            "texto": "Te alabo y sé"
+          },
+          {
+            "acordes": "                  G",
+            "texto": "Que estás en control"
+          },
+          {
+            "acordes": "",
+            "texto": "Es más que un sonido"
+          },
+          {
+            "acordes": "   G/A    G",
+            "texto": "Es adoración"
+          },
+          {
+            "acordes": "    D",
+            "texto": "Y cuando alabamos"
+          },
+          {
+            "acordes": "C9            G",
+            "texto": "   Caerá Jericó"
+          }
+        ]
+      },
+      {
+        "tipo": "puente",
+        "etiqueta": "Pre-Estribillo",
+        "lineas": [
+          {
+            "acordes": "      D",
+            "texto": "Mientras tenga aliento"
+          },
+          {
+            "acordes": " C9",
+            "texto": "Mi alma canta y"
+          }
+        ]
+      },
+      {
+        "tipo": "coro",
+        "etiqueta": "Estribillo",
+        "lineas": [
+          {
+            "acordes": "Em  C       G",
+            "texto": "A__laba a Dios"
+          },
+          {
+            "acordes": "        D",
+            "texto": "Mi corazón"
+          },
+          {
+            "acordes": "Em  C       G",
+            "texto": "A__laba a Dios"
+          },
+          {
+            "acordes": "        D",
+            "texto": "Mi corazón"
+          }
+        ]
+      },
+      {
+        "tipo": "coro",
+        "etiqueta": "Estribillo 2",
+        "lineas": [
+          {
+            "acordes": " Em",
+            "texto": "No me detengo"
+          },
+          {
+            "acordes": "     C",
+            "texto": "Mi Dios vivo estas"
+          },
+          {
+            "acordes": " G                D",
+            "texto": "Como me voy a callar"
+          },
+          {
+            "acordes": "Em  C       G",
+            "texto": "A__laba a Dios"
+          },
+          {
+            "acordes": "        D  G",
+            "texto": "Mi corazón"
+          }
+        ]
+      },
+      {
+        "tipo": "puente",
+        "etiqueta": "Puente",
+        "lineas": [
+          {
+            "acordes": "  G",
+            "texto": "Alabo al que reina"
+          },
+          {
+            "acordes": "",
+            "texto": "Alabo al Señor"
+          },
+          {
+            "acordes": "",
+            "texto": "Alabo a aquel que la tumba venció"
+          },
+          {
+            "acordes": "",
+            "texto": "Alabo al que es bueno"
+          },
+          {
+            "acordes": "",
+            "texto": "Alabo al que es fiel"
+          },
+          {
+            "acordes": "",
+            "texto": "Le alabo porque no hay otro como él"
+          }
+        ]
+      },
+      {
+        "tipo": "puente",
+        "etiqueta": "Puente 2",
+        "lineas": [
+          {
+            "acordes": "  G",
+            "texto": "Alabo al que reina"
+          },
+          {
+            "acordes": "  Am",
+            "texto": "Alabo al Señor"
+          },
+          {
+            "acordes": "  Em                  C",
+            "texto": "Alabo a aquel que la tumba venció"
+          },
+          {
+            "acordes": "  G",
+            "texto": "Alabo al que es bueno"
+          },
+          {
+            "acordes": "  Am",
+            "texto": "Alabo al que es fiel"
+          },
+          {
+            "acordes": "     Em                C",
+            "texto": "Le alabo porque no hay otro como él"
+          }
+        ]
+      },
+      {
+        "tipo": "coro",
+        "etiqueta": "Estribillo",
+        "lineas": [
+          {
+            "acordes": "Em  C       G",
+            "texto": "A__laba a Dios"
+          },
+          {
+            "acordes": "        D",
+            "texto": "Mi corazón"
+          },
+          {
+            "acordes": "Em  C       G",
+            "texto": "A__laba a Dios"
+          },
+          {
+            "acordes": "        D",
+            "texto": "Mi corazón"
+          },
+          {
+            "acordes": "Em  C       G",
+            "texto": "A__laba a Dios"
+          },
+          {
+            "acordes": "        D",
+            "texto": "Mi corazón"
+          },
+          {
+            "acordes": "Em  C       G",
+            "texto": "A__laba a Dios"
+          },
+          {
+            "acordes": "        D",
+            "texto": "Mi corazón"
+          }
+        ]
+      },
+      {
+        "tipo": "coro",
+        "etiqueta": "Estribillo 2",
+        "lineas": [
+          {
+            "acordes": " Em",
+            "texto": "No me detengo"
+          },
+          {
+            "acordes": "     C",
+            "texto": "Mi Dios vivo estas"
+          },
+          {
+            "acordes": " G                D",
+            "texto": "Como me voy a callar"
+          },
+          {
+            "acordes": " Em",
+            "texto": "No me detengo"
+          },
+          {
+            "acordes": "     C",
+            "texto": "Mi Dios vivo estas"
+          },
+          {
+            "acordes": " G                D",
+            "texto": "Como me voy a callar"
+          },
+          {
+            "acordes": " Em",
+            "texto": "No me detengo"
+          },
+          {
+            "acordes": "     C",
+            "texto": "Mi Dios vivo estas"
+          },
+          {
+            "acordes": " G                D",
+            "texto": "Como me voy a callar"
+          },
+          {
+            "acordes": "Em  C       G",
+            "texto": "A__laba a Dios"
+          },
+          {
+            "acordes": "        D",
+            "texto": "Mi corazón"
+          }
+        ]
+      },
+      {
+        "tipo": "intro",
+        "etiqueta": "Final",
+        "lineas": [
+          {
+            "acordes": "Em  C  G  D",
+            "texto": ""
+          },
+          {
+            "acordes": "Em  C  G  D  G",
+            "texto": ""
+          }
+        ]
+      },
+      {
+        "tipo": "intro",
+        "etiqueta": "Cierre",
+        "lineas": [
+          {
+            "acordes": "",
+            "texto": "Que toda la"
+          },
+          {
+            "acordes": "",
+            "texto": "Creación"
+          },
+          {
+            "acordes": "",
+            "texto": "Alabe a Dios"
+          },
+          {
+            "acordes": "",
+            "texto": "Alabe a Dios"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "titulo": "Bondad de Dios",
+    "artista": "Bethel Music",
+    "tono": "Ab",
+    "genero": "Alabanza",
+    "youtubeId": "SnIzImY9wO4",
+    "letra": [
+      {
+        "tipo": "verso",
+        "etiqueta": "Verso 1",
+        "lineas": [
+          {
+            "acordes": "Ab",
+            "texto": "Te amo Dios"
+          },
+          {
+            "acordes": "    Db            Ab",
+            "texto": "Tu amor nunca me falla"
+          },
+          {
+            "acordes": "  Eb/G  Fm         Db    Eb",
+            "texto": "Mi existir en Tus manos está"
+          },
+          {
+            "acordes": "                           Fm     Db",
+            "texto": "Desde el momento en que despierto"
+          },
+          {
+            "acordes": "           Ab Eb/G Fm",
+            "texto": "Hasta el anochecer"
+          },
+          {
+            "acordes": "        Db    Eb            Ab",
+            "texto": "Yo cantaré de la bondad de Dios"
+          }
+        ]
+      },
+      {
+        "tipo": "coro",
+        "etiqueta": "Coro",
+        "lineas": [
+          {
+            "acordes": "Db                   Ab",
+            "texto": "En mi vida has sido bueno"
+          },
+          {
+            "acordes": "Db                   Ab  Eb",
+            "texto": "En mi vida has sido tan fiel"
+          },
+          {
+            "acordes": "Db                    Ab Eb/G Fm",
+            "texto": "Con mi ser, con cada aliento"
+          },
+          {
+            "acordes": "        Db    Eb            Ab",
+            "texto": "Yo cantaré de la bondad de Dios"
+          }
+        ]
+      },
+      {
+        "tipo": "verso",
+        "etiqueta": "Verso 2",
+        "lineas": [
+          {
+            "acordes": "Ab",
+            "texto": "Yo amo Tu voz"
+          },
+          {
+            "acordes": "        Db             Ab",
+            "texto": "Me has guiado por el fuego"
+          },
+          {
+            "acordes": "   Eb/G    Fm",
+            "texto": "Tú cerca estás"
+          },
+          {
+            "acordes": "   Db        Eb",
+            "texto": "en la oscuridad"
+          },
+          {
+            "acordes": "                 Fm",
+            "texto": "Te conozco como Padre"
+          },
+          {
+            "acordes": "Db            Ab Eb/G Fm",
+            "texto": " Y como amigo fiel"
+          },
+          {
+            "acordes": "         Db     Eb            Ab",
+            "texto": "Mi vida está en la bondad de Dios"
+          }
+        ]
+      },
+      {
+        "tipo": "coro",
+        "etiqueta": "Coro",
+        "lineas": [
+          {
+            "acordes": "Db                   Ab",
+            "texto": "En mi vida has sido bueno"
+          },
+          {
+            "acordes": "Db                  Ab   Eb",
+            "texto": "En mi vida has sido tan fiel"
+          },
+          {
+            "acordes": "Db                    Ab Eb/G Fm",
+            "texto": "Con mi ser, con cada aliento"
+          },
+          {
+            "acordes": "        Db    Eb            Ab",
+            "texto": "Yo cantaré de la bondad de Dios"
+          }
+        ]
+      },
+      {
+        "tipo": "puente",
+        "etiqueta": "Puente",
+        "lineas": [
+          {
+            "acordes": "Ab/C          Db",
+            "texto": "Tu fidelidad sigue"
+          },
+          {
+            "acordes": "Eb          Ab",
+            "texto": "Persiguiéndome"
+          },
+          {
+            "acordes": "Ab/C          Db",
+            "texto": "Tu fidelidad sigue"
+          },
+          {
+            "acordes": "Eb          Ab",
+            "texto": "Persiguiéndome"
+          },
+          {
+            "acordes": "    Ab/C",
+            "texto": "Todo lo que soy"
+          },
+          {
+            "acordes": "          Db",
+            "texto": "Te lo entrego hoy"
+          },
+          {
+            "acordes": "  Eb         Fm",
+            "texto": "A Ti me rendiré"
+          },
+          {
+            "acordes": "Ab/C           Db",
+            "texto": "Tu fidelidad sigue"
+          },
+          {
+            "acordes": "Eb         Ab",
+            "texto": "persiguiéndome"
+          }
+        ]
+      },
+      {
+        "tipo": "coro",
+        "etiqueta": "Coro",
+        "lineas": [
+          {
+            "acordes": "Db                   Ab",
+            "texto": "En mi vida has sido bueno"
+          },
+          {
+            "acordes": "Db                  Ab   Eb",
+            "texto": "En mi vida has sido tan fiel"
+          },
+          {
+            "acordes": "Db                    Ab Eb/G Fm",
+            "texto": "Con mi ser, con cada aliento"
+          },
+          {
+            "acordes": "        Db    Eb            Ab",
+            "texto": "Yo cantaré de la bondad de Dios"
+          },
+          {
+            "acordes": "",
+            "texto": ""
+          },
+          {
+            "acordes": "Db                   Ab",
+            "texto": "En mi vida has sido bueno"
+          },
+          {
+            "acordes": "Db                  Ab   Eb",
+            "texto": "En mi vida has sido tan fiel"
+          },
+          {
+            "acordes": "Db                    Ab Eb/G Fm",
+            "texto": "Con mi ser, con cada aliento"
+          },
+          {
+            "acordes": "        Db    Eb            Ab",
+            "texto": "Yo cantaré de la bondad de Dios"
+          }
+        ]
+      },
+      {
+        "tipo": "puente",
+        "etiqueta": "Puente",
+        "lineas": [
+          {
+            "acordes": "Ab/C          Db",
+            "texto": "Tu fidelidad sigue"
+          },
+          {
+            "acordes": "Eb          Ab",
+            "texto": "Persiguiéndome"
+          },
+          {
+            "acordes": "Ab/C          Db",
+            "texto": "Tu fidelidad sigue"
+          },
+          {
+            "acordes": "Eb          Ab",
+            "texto": "Persiguiéndome"
+          },
+          {
+            "acordes": "    Ab/C",
+            "texto": "Todo lo que soy"
+          },
+          {
+            "acordes": "          Db",
+            "texto": "Te lo entrego hoy"
+          },
+          {
+            "acordes": "  Eb         Fm",
+            "texto": "A Ti me rendiré"
+          },
+          {
+            "acordes": "Ab/C           Db",
+            "texto": "Tu fidelidad sigue"
+          },
+          {
+            "acordes": "Eb         Ab",
+            "texto": "persiguiéndome"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "titulo": "Mi Confianza Eres Tu",
+    "artista": "Peregrinos y Extranjeros",
+    "tono": "G",
+    "genero": "Himno",
+    "youtubeId": "IdAVbVAgDgE",
+    "letra": [
+      {
+        "tipo": "intro",
+        "etiqueta": "Intro",
+        "lineas": [
+          {
+            "acordes": "G  G7  C  Cm",
+            "texto": ""
+          }
+        ]
+      },
+      {
+        "tipo": "verso",
+        "etiqueta": "Verso 1",
+        "lineas": [
+          {
+            "acordes": "G             C G          C",
+            "texto": "Mi confianza eres tú, mi paciencia eres tú,"
+          },
+          {
+            "acordes": "Dm  C               G",
+            "texto": "y en ti Señor encuentro plenitud de"
+          },
+          {
+            "acordes": "Am       D    G        C",
+            "texto": "toda gracia, echo toda mi ansiedad,.mi"
+          },
+          {
+            "acordes": "G          C      Dm G    C",
+            "texto": "desvelo y mi inquietud, sobre ti Señor"
+          },
+          {
+            "acordes": "          G                Am  D",
+            "texto": "encuentro plenitud de toda gracia."
+          }
+        ]
+      },
+      {
+        "tipo": "coro",
+        "etiqueta": "Coro",
+        "lineas": [
+          {
+            "acordes": "          C             G C  D  G",
+            "texto": "Es que solo en ti hallo mi paz, solo tú"
+          },
+          {
+            "acordes": "                D Em         Am    D",
+            "texto": "Señor sabes cuidarme en toda mi vida,"
+          },
+          {
+            "acordes": "                G         C",
+            "texto": "en todo lugar, solo tú Señor sabes"
+          },
+          {
+            "acordes": "G C",
+            "texto": "guiarme"
+          },
+          {
+            "acordes": "D    G       C          G",
+            "texto": "a tu santidad y a tu bondad,"
+          },
+          {
+            "acordes": "D Em              Am    D",
+            "texto": "por siempre me llevarás camino a tu"
+          },
+          {
+            "acordes": "G",
+            "texto": "perfección."
+          }
+        ]
+      },
+      {
+        "tipo": "intro",
+        "etiqueta": "Interludio",
+        "lineas": [
+          {
+            "acordes": "G  G7  C  Cm",
+            "texto": ""
+          }
+        ]
+      },
+      {
+        "tipo": "verso",
+        "etiqueta": "Verso 2",
+        "lineas": [
+          {
+            "acordes": "  G                C         G",
+            "texto": "Gloria a Dios eres real cada día estás"
+          },
+          {
+            "acordes": "C        Dm  C               G",
+            "texto": "conmigo, en mi caminar me haces livianos"
+          },
+          {
+            "acordes": "Am              D",
+            "texto": "mis pies cansados."
+          },
+          {
+            "acordes": "         G                C    G",
+            "texto": "Tu me has dicho que estarás junto a mi"
+          },
+          {
+            "acordes": "         D  C",
+            "texto": "desde ahora,"
+          },
+          {
+            "acordes": "Dm  C                        G",
+            "texto": "hasta la eternidad, ya he visto que es"
+          },
+          {
+            "acordes": "         Am                D",
+            "texto": "verdad, siempre a mi lado estás."
+          }
+        ]
+      },
+      {
+        "tipo": "coro",
+        "etiqueta": "Coro",
+        "lineas": [
+          {
+            "acordes": "          C             G C  D  G",
+            "texto": "Es que solo en ti hallo mi paz, solo tú"
+          },
+          {
+            "acordes": "                D Em         Am    D",
+            "texto": "Señor sabes cuidarme en toda mi vida,"
+          },
+          {
+            "acordes": "                G         C",
+            "texto": "en todo lugar, solo tú Señor sabes"
+          },
+          {
+            "acordes": "G C",
+            "texto": "guiarme"
+          },
+          {
+            "acordes": "D    G       C          G",
+            "texto": "a tu santidad y a tu bondad,"
+          },
+          {
+            "acordes": "D Em              Am    D",
+            "texto": "por siempre me llevarás camino a tu"
+          },
+          {
+            "acordes": "G",
+            "texto": "perfección."
+          }
+        ]
+      },
+      {
+        "tipo": "intro",
+        "etiqueta": "Final",
+        "lineas": [
+          {
+            "acordes": "G  G7  C  Cm  G",
+            "texto": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "titulo": "En la Cruz",
+    "artista": "Proposito Music",
+    "tono": "C",
+    "genero": "Himno",
+    "youtubeId": "QmuHMNGMTVw",
+    "letra": [
+      {
+        "tipo": "verso",
+        "etiqueta": "Verso 1",
+        "lineas": [
+          {
+            "acordes": "C                Am          F             G",
+            "texto": "Sobre una cruz mi buen Señor, su sangre derramó"
+          },
+          {
+            "acordes": "C                Am    F     G     C",
+            "texto": "Por este pobre pecador a quien así salvó"
+          },
+          {
+            "acordes": "C                Dm",
+            "texto": "En la cruz en la cruz, do primero vi la luz"
+          },
+          {
+            "acordes": "  G7                  C7",
+            "texto": "Y las manchas de mi alma yo lavé"
+          },
+          {
+            "acordes": "  F             C                Am G      C",
+            "texto": "Fue allí por fe do vi a Jesús y siempre feliz con él seré"
+          }
+        ]
+      },
+      {
+        "tipo": "verso",
+        "etiqueta": "Verso 2",
+        "lineas": [
+          {
+            "acordes": "C                Am          F             G",
+            "texto": "Venció a la muerte con poder, y el padre le exaltó"
+          },
+          {
+            "acordes": "C                Am    F     G     C",
+            "texto": "Confiar en él es mi placer, morir no temo yo"
+          },
+          {
+            "acordes": "C                Dm",
+            "texto": "En la cruz en la cruz, do primero vi la luz"
+          },
+          {
+            "acordes": "  G7                      C7",
+            "texto": "Y las manchas de mi alma yo lavé, fue al"
+          },
+          {
+            "acordes": "  F             C                Am G      C",
+            "texto": "Fue allí por fe do vi a Jesús y siempre feliz con él seré"
+          }
+        ]
+      },
+      {
+        "tipo": "verso",
+        "etiqueta": "Verso 3",
+        "lineas": [
+          {
+            "acordes": "C                Am          F             G",
+            "texto": "Aunque él se fue solo no estoy, mandó al consolador"
+          },
+          {
+            "acordes": "C                Am    F     G     C",
+            "texto": "Divino Espíritu que hoy me da perfecto amor"
+          },
+          {
+            "acordes": "C                Dm",
+            "texto": "En la cruz en la cruz, do primero vi la luz"
+          },
+          {
+            "acordes": "  G7                  C7",
+            "texto": "Y las manchas de mi alma yo lavé"
+          },
+          {
+            "acordes": "  F             C                Am G      C",
+            "texto": "Fue allí por fe do vi a Jesús y siempre feliz con él seré"
+          }
+        ]
+      },
+      {
+        "tipo": "intro",
+        "etiqueta": "Transición",
+        "lineas": [
+          {
+            "acordes": "G  A",
+            "texto": ""
+          },
+          {
+            "acordes": "Bm  G",
+            "texto": ""
+          },
+          {
+            "acordes": "G",
+            "texto": ""
+          },
+          {
+            "acordes": "D",
+            "texto": ""
+          }
+        ]
+      }
+    ]
+  }
+]

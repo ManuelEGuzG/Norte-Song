@@ -1,0 +1,55 @@
+[
+  {
+    "id": 1,
+    "titulo": "Bendito Jesús",
+    "artista": "Danilo Montero",
+    "tono": "B",
+    "genero": "Adoración",
+    "youtubeId": "https://youtu.be/N_obYr-RPJA?si=kKoshaHW168UIN_F",
+    "letra": [
+      {
+        "tipo": "verso",
+        "etiqueta": "Verso 1",
+        "lineas": [
+          { "acordes": "B               F#                 G#m", "texto": "Por tí es mi clamor, y sin ningun temor" },
+          { "acordes": " F#         E       F#         B", "texto": "En tí puedo confiar, Bendito Jesus" },
+          { "acordes": "                F#                G#m", "texto": "Hoy puedo escuchar, tú voz de sanidad" },
+          { "acordes": "F#          E      F#            B", "texto": "Restaurando mi ser, Bendito Jesús" }
+        ]
+      },
+      {
+        "tipo": "coro",
+        "etiqueta": "Coro",
+        "lineas": [
+          { "acordes": "B             F#             D#/G  G#m", "texto": "Mi deseo eres tú, mi momento de amor" },
+          { "acordes": "        F#        E       F#       B", "texto": "La alegria de vivir, Bendito Jesús" },
+          { "acordes": "                   F#                 D#/G  G#m", "texto": "Eres mi fuente de amor, eres aire, y eres sol" },
+          { "acordes": "      F#          E              F#", "texto": "El latir del corazón, Bendito Jesús" },
+          { "acordes": "G#m         F#           E", "texto": "Bendito amor de mi Señor" }
+        ]
+      },
+      {
+        "tipo": "verso",
+        "etiqueta": "Verso 2",
+        "lineas": [
+          { "acordes": "B              F#               G#m", "texto": "Tú gracia y favor, conmigo puedo ver" },
+          { "acordes": "F#        E      F#      E         B", "texto": "Llenando hoy mi ser, Bendito Jesús" },
+          { "acordes": "                F#                   G#m", "texto": "Y hoy mi voluntad, se rinde a tu verdad" },
+          { "acordes": " F#        E        F#      E         B", "texto": "Tú amor y tu bondad, Bendito Jesús" }
+        ]
+      },
+      {
+        "tipo": "coro",
+        "etiqueta": "Coro",
+        "lineas": [
+          { "acordes": "B             F#             D#/G  G#m", "texto": "Mi deseo eres tú, mi momento de amor" },
+          { "acordes": "        F#        E       F#       B", "texto": "La alegria de vivir, Bendito Jesús" },
+          { "acordes": "                   F#                 D#/G  G#m", "texto": "Eres mi fuente de amor, eres aire, y eres sol" },
+          { "acordes": "      F#          E              F#", "texto": "El latir del corazón, Bendito Jesús" },
+          { "acordes": "G#m         F#           E", "texto": "Bendito amor de mi Señor" },
+          { "acordes": "G#m        F#           E", "texto": "Bendito amor de mi Señor" }
+        ]
+      }
+    ]
+  }
+]
