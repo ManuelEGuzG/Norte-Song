@@ -8,5 +8,14 @@ export default defineConfig({
     alias: {
       '@': fileURLToPath(new URL('./src', import.meta.url))
     }
+  },
+  server: {
+    proxy: {
+      '/ytimg': {
+        target: 'https://i.ytimg.com',
+        changeOrigin: true,
+        rewrite: (path) => path.replace(/^\/ytimg/, '')
+      }
+    }
   }
 })

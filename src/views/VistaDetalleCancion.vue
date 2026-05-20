@@ -25,6 +25,12 @@
       </div>
       <div class="col-lateral fade-in-3">
         <ReproductorYouTube :video-id="cancion.youtubeId" />
+        <AudioPlayer
+          v-if="cancion.audio"
+          :src="cancion.audio"
+          :titulo="cancion.titulo"
+          subtitulo="Descripción de la canción"
+        />
       </div>
     </div>
   </div>
@@ -40,6 +46,7 @@ import { ref, onMounted } from 'vue'
 import { useRoute } from 'vue-router'
 import MostrarAcordes from '../components/MostrarAcordes.vue'
 import ReproductorYouTube from '../components/ReproductorYouTube.vue'
+import AudioPlayer from '../components/AudioPlayer.vue'
 
 const route   = useRoute()
 const cancion = ref(null)

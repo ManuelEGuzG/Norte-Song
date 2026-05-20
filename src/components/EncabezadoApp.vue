@@ -43,17 +43,11 @@ onUnmounted(() => window.removeEventListener('scroll', alScroll))
   display: flex; align-items: center; justify-content: space-between;
 }
 .marca { display: flex; align-items: center; gap: 12px; }
-
-/* Logo sin fondo — árbol negro directo */
 .marca-logo {
-  width: 44px; height: 44px;
-  object-fit: contain;
-  /* el PNG tiene fondo negro, lo invertimos para que sea negro sobre claro */
-  filter: invert(1) brightness(0.15);
-  transition: var(--transition);
+  width: 44px; height: 44px; object-fit: contain;
+  filter: invert(1) brightness(0.15); transition: var(--transition);
 }
 .marca:hover .marca-logo { filter: invert(1) brightness(0.15) drop-shadow(0 2px 6px rgba(184,134,42,0.5)); }
-
 .marca-texto { display: flex; flex-direction: column; line-height: 1; }
 .marca-norte {
   font-family: var(--font-display); font-size: 1.2rem; font-weight: 700;
