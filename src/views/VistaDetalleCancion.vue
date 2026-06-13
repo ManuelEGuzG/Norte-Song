@@ -53,7 +53,7 @@
 </template>
 
 <script setup>
-import { ref, onMounted } from 'vue'
+import { ref, watch, onMounted } from 'vue'
 import { useRoute } from 'vue-router'
 import MostrarAcordes        from '../components/MostrarAcordes.vue'
 import ReproductorYouTube    from '../components/ReproductorYouTube.vue'
@@ -65,10 +65,21 @@ const route          = useRoute()
 const cancion        = ref(null)
 const todasCanciones = ref([])
 
-onMounted(async () => {
-  const res = await fetch('/canciones.json')
-  todasCanciones.value = await res.json()
-  cancion.value = todasCanciones.value.find(c => c.id === parseInt(route.params.id))
+async function cargarCancion(id) {
+  cancion.value = null
+  if (!todasCanciones.value.length) {
+    const res = await fetch('/canciones.json')
+    todasCanciones.value = await res.json()
+  }
+  cancion.value = todasCanciones.value.find(c => c.id === parseInt(id))
+  window.scrollTo({ top: 0, behavior: 'smooth' })
+}
+
+onMounted(() => cargarCancion(route.params.id))
+
+// Recargar cuando cambia el ID en la URL
+watch(() => route.params.id, (nuevoId) => {
+  if (nuevoId) cargarCancion(nuevoId)
 })
 </script>
 

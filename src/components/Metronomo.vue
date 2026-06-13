@@ -8,7 +8,7 @@
       </div>
     </div>
 
-    <!-- BPM display -->
+    <!-- BPM display --> 
     <div class="bpm-display">
       <div class="bpm-num" :class="{ pulso: pulsando }">{{ bpm }}</div>
       <div class="bpm-label">BPM</div>
