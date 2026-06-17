@@ -93,6 +93,7 @@
 </template>
 
 <script setup>
+import cancionesData from '../data/canciones.json'
 import { ref, computed, onMounted, onUnmounted } from 'vue'
 import { useRoute } from 'vue-router'
 import logoIglesia from '@/assets/logo/logo-iglesia.png'
@@ -113,8 +114,7 @@ function agrandar() { if (tamanoLetra.value < TAMANO_MAX) tamanoLetra.value = Ma
 function achicar()  { if (tamanoLetra.value > TAMANO_MIN) tamanoLetra.value = Math.round((tamanoLetra.value - TAMANO_PASO) * 10) / 10 }
 
 onMounted(async () => {
-  const res = await fetch(import.meta.env.BASE_URL + 'canciones.json')
-  const todas = await res.json()
+  const todas = cancionesData
   cancion.value = todas.find(c => c.id === parseInt(idCancion))
   contenedor.value?.focus()
   window.addEventListener('keydown', alTecla)

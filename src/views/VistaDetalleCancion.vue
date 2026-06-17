@@ -53,6 +53,7 @@
 </template>
 
 <script setup>
+import cancionesData from '../data/canciones.json'
 import { ref, watch, onMounted } from 'vue'
 import { useRoute } from 'vue-router'
 import MostrarAcordes        from '../components/MostrarAcordes.vue'
@@ -68,8 +69,7 @@ const todasCanciones = ref([])
 async function cargarCancion(id) {
   cancion.value = null
   if (!todasCanciones.value.length) {
-    const res = await fetch(import.meta.env.BASE_URL + 'canciones.json')
-    todasCanciones.value = await res.json()
+    todasCanciones.value = cancionesData
   }
   cancion.value = todasCanciones.value.find(c => c.id === parseInt(id))
   window.scrollTo({ top: 0, behavior: 'smooth' })

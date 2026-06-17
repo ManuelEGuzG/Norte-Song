@@ -38,6 +38,7 @@
 </template>
 
 <script setup>
+import cancionesData from '../data/canciones.json'
 import { ref, computed, onMounted } from 'vue'
 import BuscadorFiltro from '../components/BuscadorFiltro.vue'
 import TarjetaCancion from '../components/TarjetaCancion.vue'
@@ -49,8 +50,7 @@ const genero    = ref('')
 const cargando  = ref(true)
 
 onMounted(async () => {
-  const res = await fetch(import.meta.env.BASE_URL + 'canciones.json')
-  canciones.value = await res.json()
+  canciones.value = cancionesData
   cargando.value = false
 })
 

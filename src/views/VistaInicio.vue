@@ -196,6 +196,7 @@
 </template>
 
 <script setup>
+import cancionesData from '../data/canciones.json'
 import { ref, computed, onMounted, onUnmounted } from 'vue'
 import logoIglesia from '@/assets/logo/logo-iglesia.png'
 
@@ -204,8 +205,7 @@ const canvas    = ref(null)
 let animId      = null
 
 onMounted(async () => {
-  const res = await fetch(import.meta.env.BASE_URL + 'canciones.json')
-  canciones.value = await res.json()
+  canciones.value = cancionesData
   iniciarCanvas()
 })
 onUnmounted(() => { if (animId) cancelAnimationFrame(animId) })
