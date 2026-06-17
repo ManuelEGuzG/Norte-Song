@@ -4,6 +4,7 @@ import { fileURLToPath, URL } from 'node:url'
 
 export default defineConfig({
   plugins: [vue()],
+  base: '/Norte-Songs/',   // ← nombre exacto de tu repo en GitHub
   resolve: {
     alias: {
       '@': fileURLToPath(new URL('./src', import.meta.url))

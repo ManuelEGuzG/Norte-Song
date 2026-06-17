@@ -3592,5 +3592,332 @@
     ],
     "imagen": "https://i3.ytimg.com/vi/QmuHMNGMTVw/mqdefault.jpg",
     "audio": null
-  }
+  },
+{
+  "id": 17,
+  "titulo": "Lo Harás Otra Vez",
+  "artista": "Elevatio Worship",
+  "tono": "Bb",
+  "genero": "Adoración",
+  "youtubeId": "es34Nr2JovU",
+  "imagen": "https://i3.ytimg.com/vi/es34Nr2JovU/mqdefault.jpg",
+  "audio": null,
+  "letra": [
+    {
+      "tipo": "intro",
+      "etiqueta": "Intro",
+      "lineas": [
+        { "acordes": "Eb  Bb", "texto": "" }
+      ]
+    },
+    {
+      "tipo": "verso",
+      "etiqueta": "Verso 1",
+      "lineas": [
+        { "acordes": "Eb",                        "texto": "Muros rodeando estoy" },
+        { "acordes": "Bb/D",                      "texto": "Pensé que caerían hoy" },
+        { "acordes": "Eb                     Bb", "texto": "Mas nunca me has fallado Dios" },
+        { "acordes": "",                           "texto": "" },
+        { "acordes": "Eb",                        "texto": "La espera terminará" },
+        { "acordes": "Bb/D",                      "texto": "Sé que has vencido ya" },
+        { "acordes": "Eb                     Bb", "texto": "Nunca me has fallado Dios" }
+      ]
+    },
+    {
+      "tipo": "coro",
+      "etiqueta": "Estribillo",
+      "lineas": [
+        { "acordes": "Gm            F",            "texto": "En Ti confiaré" },
+        { "acordes": "           Bb",              "texto": "Tu promesa sigue en pié" },
+        { "acordes": "Eb",                         "texto": "Tú eres fiel" },
+        { "acordes": "",                           "texto": "" },
+        { "acordes": "Gm              F",          "texto": "Confiado andaré" },
+        { "acordes": "            Bb",             "texto": "En tus manos estaré" },
+        { "acordes": "Eb            Bb/D",         "texto": "Siempre has sido fiel" }
+      ]
+    },
+    {
+      "tipo": "intro",
+      "etiqueta": "Interludio",
+      "lineas": [
+        { "acordes": "Eb  Bb/D", "texto": "" }
+      ]
+    },
+    {
+      "tipo": "verso",
+      "etiqueta": "Verso 2",
+      "lineas": [
+        { "acordes": "Eb",                        "texto": "La noche acabará" },
+        { "acordes": "Bb/D",                      "texto": "Tu Palabra se cumplirá" },
+        { "acordes": "Eb               Bb",       "texto": "Mi corazón te alabará" },
+        { "acordes": "",                           "texto": "" },
+        { "acordes": "Eb",                        "texto": "Cristo, mi Salvador" },
+        { "acordes": "Bb/D",                      "texto": "Cúbreme con Tu amor" },
+        { "acordes": "Eb               Bb",       "texto": "Mi corazón te alabará" }
+      ]
+    },
+    {
+      "tipo": "coro",
+      "etiqueta": "Estribillo",
+      "lineas": [
+        { "acordes": "Gm           F",             "texto": "En Ti confiaré" },
+        { "acordes": "           Bb",              "texto": "Tu promesa sigue en pié" },
+        { "acordes": "Eb",                         "texto": "Tú eres fiel" },
+        { "acordes": "",                           "texto": "" },
+        { "acordes": "Gm              F",          "texto": "Confiado andaré" },
+        { "acordes": "            Bb",             "texto": "En tus manos estaré" },
+        { "acordes": "Eb            Bb/D",         "texto": "Siempre has sido fiel" }
+      ]
+    },
+    {
+      "tipo": "intro",
+      "etiqueta": "Interludio",
+      "lineas": [
+        { "acordes": "Bb/D  Eb  F/A  Bb/D", "texto": "" }
+      ]
+    },
+    {
+      "tipo": "puente",
+      "etiqueta": "Puente",
+      "lineas": [
+        { "acordes": "Bb/D  Eb",                  "texto": "Yo sé que Tú" },
+        { "acordes": "Bb/D  Eb",                  "texto": "Mueves montañas" },
+        { "acordes": "F/A   Bb",                  "texto": "Yo creo en Ti" },
+        { "acordes": "F/A   Bb",                  "texto": "Sé que lo harás otra vez" },
+        { "acordes": "",                           "texto": "" },
+        { "acordes": "Bb/D  Eb",                  "texto": "Abriste el mar" },
+        { "acordes": "Bb/D  Eb",                  "texto": "En el desierto" },
+        { "acordes": "F/A   Bb",                  "texto": "Yo creo en Ti" },
+        { "acordes": "F/A   Bb",                  "texto": "Sé que lo harás otra vez" }
+      ]
+    },
+    {
+      "tipo": "coro",
+      "etiqueta": "Estribillo",
+      "lineas": [
+        { "acordes": "Gm          F",              "texto": "En Ti confiaré" },
+        { "acordes": "           Bb",              "texto": "Tu promesa sigue en pié" },
+        { "acordes": "Eb",                         "texto": "Tú eres fiel" },
+        { "acordes": "",                           "texto": "" },
+        { "acordes": "Gm              F",          "texto": "Confiado andaré" },
+        { "acordes": "            Bb",             "texto": "En tus manos estaré" },
+        { "acordes": "Eb            Bb/D",         "texto": "Siempre has sido fiel" }
+      ]
+    }
+  ]
+},
+{
+  "id": 18,
+  "titulo": "Socorro",
+  "artista": "Un Corazon",
+  "tono": "D",
+  "genero": "Alabanza",
+  "youtubeId": "By1D67IzxI4",
+  "imagen": "https://i3.ytimg.com/vi/By1D67IzxI4/mqdefault.jpg",
+  "audio": null,
+  "letra": [
+    {
+      "tipo": "intro",
+      "etiqueta": "Intro",
+      "lineas": [
+        { "acordes": "D", "texto": "" }
+      ]
+    },
+    {
+      "tipo": "verso",
+      "etiqueta": "Intro",
+      "lineas": [
+        { "acordes": "D", "texto": "¿De dónde viene mi socorro?" },
+        { "acordes": "",  "texto": "Mi ayuda viene de Ti" }
+      ]
+    },
+    {
+      "tipo": "intro",
+      "etiqueta": "Interludio",
+      "lineas": [
+        { "acordes": "G  D  A  Bm", "texto": "" }
+      ]
+    },
+    {
+      "tipo": "verso",
+      "etiqueta": "Primera Parte",
+      "lineas": [
+        { "acordes": "G                   D",    "texto": "El cielo cuenta de tus obras" },
+        { "acordes": "A                Bm",      "texto": "Poesía escrita por Ti" },
+        { "acordes": "",                          "texto": "" },
+        { "acordes": "G                D",       "texto": "Estelas de misericordia" },
+        { "acordes": "A               Bm",       "texto": "Todas apuntan a Ti" }
+      ]
+    },
+    {
+      "tipo": "puente",
+      "etiqueta": "Pre-Estribillo",
+      "lineas": [
+        { "acordes": "A      G",                 "texto": "Si me encuentro perdido" },
+        { "acordes": "Gm                  D",    "texto": "Sé donde te puedo encontrar" }
+      ]
+    },
+    {
+      "tipo": "coro",
+      "etiqueta": "Estribillo",
+      "lineas": [
+        { "acordes": "G                D",       "texto": "Alzaré mis ojos a los montes" },
+        { "acordes": "A                   Bm",   "texto": "Te veré radiante como el sol" },
+        { "acordes": "G                   D",    "texto": "Seguiré el brillo de tu gracia" },
+        { "acordes": "A                      Bm","texto": "Porque sé que Tú sigues siendo Dios" },
+        { "acordes": "A",                        "texto": "Tú sigues siendo Dios" }
+      ]
+    },
+    {
+      "tipo": "intro",
+      "etiqueta": "Interludio",
+      "lineas": [
+        { "acordes": "G  D  A  Bm", "texto": "" }
+      ]
+    },
+    {
+      "tipo": "verso",
+      "etiqueta": "Segunda Parte",
+      "lineas": [
+        { "acordes": "G                   D",    "texto": "Si cuidas de todas las aves" },
+        { "acordes": "A                Bm",      "texto": "Sé que me cuidas a mí" },
+        { "acordes": "",                          "texto": "" },
+        { "acordes": "G                 D",      "texto": "Ya nada puede separarme" },
+        { "acordes": "A                 Bm",     "texto": "Porque dependo de Ti" }
+      ]
+    },
+    {
+      "tipo": "puente",
+      "etiqueta": "Pre-Estribillo",
+      "lineas": [
+        { "acordes": "A      G",                 "texto": "Si me encuentro perdido" },
+        { "acordes": "Gm                  D",    "texto": "Sé donde te puedo encontrar" }
+      ]
+    },
+    {
+      "tipo": "coro",
+      "etiqueta": "Estribillo",
+      "lineas": [
+        { "acordes": "G                D",       "texto": "Alzaré mis ojos a los montes" },
+        { "acordes": "A                   Bm",   "texto": "Te veré radiante como el sol" },
+        { "acordes": "G                   D",    "texto": "Seguiré el brillo de tu gracia" },
+        { "acordes": "A                      Bm","texto": "Porque sé que Tú sigues siendo Dios" },
+        { "acordes": "A            D",            "texto": "Tú sigues siendo Dios" }
+      ]
+    },
+    {
+      "tipo": "intro",
+      "etiqueta": "Interludio",
+      "lineas": [
+        { "acordes": "D4  D  G/D  D", "texto": "" },
+        { "acordes": "Em/D  D  D4  D", "texto": "" }
+      ]
+    },
+    {
+      "tipo": "verso",
+      "etiqueta": "Tercera Parte",
+      "lineas": [
+        { "acordes": "D",                        "texto": "¿De dónde vienen mi socorro? (Dice)" },
+        { "acordes": "",                          "texto": "Mi ayuda viene de Ti" },
+        { "acordes": "                  D4  D",  "texto": "¿Quién sana corazones ro__tos?" },
+        { "acordes": "",                          "texto": "Mi ayuda viene de Ti (¿de dónde viene?)" },
+        { "acordes": "",                          "texto": "" },
+        { "acordes": "D                  D4  D", "texto": "¿De dónde vienen mi socor_ro?" },
+        { "acordes": "",                          "texto": "Mi ayuda viene de Ti" },
+        { "acordes": "                  D4  D",  "texto": "¿Quién sana corazones ro__tos?" },
+        { "acordes": "",                          "texto": "Mi ayuda viene de Ti (¡yeah!)" },
+        { "acordes": "",                          "texto": "" },
+        { "acordes": "Bm               A    G  D","texto": "¿De dónde viene mi esperanza?" },
+        { "acordes": "G          A      D",       "texto": "Mi ayuda viene de Ti (¿quién da?)" },
+        { "acordes": "Bm                  A    G  D","texto": "¿Quién da descanso para el alma?" },
+        { "acordes": "G          A      D   D/C#","texto": "Mi ayuda viene de Ti (alzaré)" }
+      ]
+    },
+    {
+      "tipo": "coro",
+      "etiqueta": "Estribillo Final",
+      "lineas": [
+        { "acordes": "G                    D",   "texto": "Alzaré mis manos a los cielos" },
+        { "acordes": "A                Bm",      "texto": "Te veré obrando a mi favor" },
+        { "acordes": "A  G              D",      "texto": "Seguiré tomado de tu mano" },
+        { "acordes": "A                      Bm","texto": "Porque sé que tú sigues siendo Dios" },
+        { "acordes": "",                          "texto": "Tú sigues siendo Dios" },
+        { "acordes": "A",                        "texto": "Tú sigues siendo Dios" },
+        { "acordes": "",                          "texto": "" },
+        { "acordes": "A        G",               "texto": "Si me encuentro perdido" },
+        { "acordes": "Gm                  D",    "texto": "Sé donde te puedo encontrar" }
+      ]
+    }
+  ]
+},
+{
+  "id": 19,
+  "titulo": "Vamos a Cantar",
+  "artista": "En Espiritu Y En Verdad",
+  "tono": "Eb",
+  "genero": "Alabanza",
+  "youtubeId": "eL4mlhdzJUA",
+  "imagen": "https://i3.ytimg.com/vi/eL4mlhdzJUA/mqdefault.jpg",
+  "audio": null,
+  "letra": [
+    {
+      "tipo": "intro",
+      "etiqueta": "Intro",
+      "lineas": [
+        { "acordes": "Eb", "texto": "" }
+      ]
+    },
+    {
+      "tipo": "coro",
+      "etiqueta": "Estribillo",
+      "lineas": [
+        { "acordes": "Eb",                        "texto": "Vamos a cantar con la música del cielo" },
+        { "acordes": "Cm",                        "texto": "Vamos a cantar alegres porque escuchas" },
+        { "acordes": "Bb         G#        Eb",   "texto": "Cuando cantamos para exaltar tu nombre" }
+      ]
+    },
+    {
+      "tipo": "verso",
+      "etiqueta": "Primera Parte",
+      "lineas": [
+        { "acordes": "Eb",                        "texto": "Amamos todo de ti" },
+        { "acordes": "",                           "texto": "Cielo y tierra te adoran" },
+        { "acordes": "Cm",                        "texto": "Los reinos se rinden" },
+        { "acordes": "",                           "texto": "Señor Jesús" },
+        { "acordes": "           Bb",             "texto": "Tú eres por quien" },
+        { "acordes": "           G#",             "texto": "Tú eres por quien" },
+        { "acordes": "        Eb",                "texto": "Vivimos hoy" }
+      ]
+    },
+    {
+      "tipo": "puente",
+      "etiqueta": "Pre-Estribillo",
+      "lineas": [
+        { "acordes": "Eb",                        "texto": "Tú eres quien nos liberta" },
+        { "acordes": "",                           "texto": "Tú eres la Luz que guía" },
+        { "acordes": "Cm",                        "texto": "Como un fuego ardiente" },
+        { "acordes": "",                           "texto": "Señor Jesús" },
+        { "acordes": "           Bb",             "texto": "Tú eres por quien" },
+        { "acordes": "           G#",             "texto": "Tú eres por quien" },
+        { "acordes": "        Eb",                "texto": "Vivimos hoy" }
+      ]
+    },
+    {
+      "tipo": "coro",
+      "etiqueta": "Estribillo",
+      "lineas": [
+        { "acordes": "Eb",                        "texto": "Vamos a cantar con la música del cielo" },
+        { "acordes": "Cm",                        "texto": "Vamos a cantar alegres porque escuchas" },
+        { "acordes": "Bb        G#         Eb",   "texto": "Cuando cantamos para exaltar tu nombre" }
+      ]
+    },
+    {
+      "tipo": "intro",
+      "etiqueta": "Final",
+      "lineas": [
+        { "acordes": "Eb  Cm  G#  Eb", "texto": "" }
+      ]
+    }
+  ]
+}
 ]
