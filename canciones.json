@@ -3727,6 +3727,129 @@
       ]
     }
   ]
+},
+{
+  "id": 20,
+  "titulo": "Vine a Adorarte",
+  "artista": "En Espiritu Y En Verdad",
+  "tono": "D",
+  "genero": "Adoración",
+  "youtubeId": "",
+  "imagen": null,
+  "audio": null,
+  "letra": [
+    {
+      "tipo": "intro",
+      "etiqueta": "Intro",
+      "lineas": [
+        { "acordes": "D           A           Em               G", "texto": "" },
+        { "acordes": "D               A       G", "texto": "" }
+      ]
+    },
+    {
+      "tipo": "verso",
+      "etiqueta": "Verso 1",
+      "lineas": [
+        { "acordes": "D           A            Em               G", "texto": "Tu eres la luz que brilló en las tinieblas" },
+        { "acordes": "D             A      G", "texto": "Abrió mis ojos pude ver" },
+        { "acordes": "D        A      Em              G", "texto": "Mi corazón adora tu hermosura" },
+        { "acordes": "D             A          G", "texto": "Esperanza de vida eres tú" }
+      ]
+    },
+    {
+      "tipo": "coro",
+      "etiqueta": "Coro",
+      "lineas": [
+        { "acordes": "      D                   A", "texto": "Vine a adorarte, vine a postrarme" },
+        { "acordes": "      Bm             G", "texto": "Vine a decirte eres mi Dios" },
+        { "acordes": "             D                  A", "texto": "Solo tú eres grande, solo tú eres digno" },
+        { "acordes": "     Bm              G", "texto": "Eres asombroso para mí" }
+      ]
+    },
+    {
+      "tipo": "verso",
+      "etiqueta": "Verso 2",
+      "lineas": [
+        { "acordes": "D           A           Em               G", "texto": "Tú eres el rey grandemente exaltado" },
+        { "acordes": "D             A     G", "texto": "Glorioso por siempre Señor" },
+        { "acordes": "D       A       Em          G", "texto": "Al mundo que creaste humilde viniste" },
+        { "acordes": "D             A         G", "texto": "Y pobre te hiciste por amor" }
+      ]
+    },
+    {
+      "tipo": "puente",
+      "etiqueta": "Puente",
+      "lineas": [
+        { "acordes": "   A         Bm           G", "texto": "Nunca sabré cuánto costó" },
+        { "acordes": "   A      Bm                G", "texto": "Ver mi maldad sobre la cruz" }
+      ]
+    },
+    {
+      "tipo": "intro",
+      "etiqueta": "Final",
+      "lineas": [
+        { "acordes": "A  G", "texto": "" },
+        { "acordes": "A     D", "texto": "" }
+      ]
+    }
+  ]
+},
+{
+  "id": 21,
+  "titulo": "He Decidido",
+  "artista": "Himno",
+  "tono": "C",
+  "genero": "Himno",
+  "youtubeId": "",
+  "imagen": null,
+  "audio": null,
+  "letra": [
+    {
+      "tipo": "intro",
+      "etiqueta": "Intro",
+      "lineas": [
+        { "acordes": "C                          F", "texto": "" },
+        { "acordes": "G                                   C", "texto": "" }
+      ]
+    },
+    {
+      "tipo": "verso",
+      "etiqueta": "Verso 1",
+      "lineas": [
+        { "acordes": "C                          C7", "texto": "He decidido seguir a Cristo" },
+        { "acordes": "F                          C", "texto": "He decidido seguir a Cristo" },
+        { "acordes": "C                          F", "texto": "He decidido seguir a Cristo" },
+        { "acordes": "G                                   C", "texto": "No vuelvo atrás, no vuelvo atrás" }
+      ]
+    },
+    {
+      "tipo": "verso",
+      "etiqueta": "Verso 2",
+      "lineas": [
+        { "acordes": "C                          C7", "texto": "La vida vieja ya he dejado" },
+        { "acordes": "F                          C", "texto": "La vida vieja ya he dejado" },
+        { "acordes": "C                          F", "texto": "La vida vieja ya he dejado" },
+        { "acordes": "G                                   C", "texto": "No vuelvo atrás, no vuelvo atrás" }
+      ]
+    },
+    {
+      "tipo": "verso",
+      "etiqueta": "Verso 3",
+      "lineas": [
+        { "acordes": "C                          C7", "texto": "El rey de gloria me ha transformado" },
+        { "acordes": "F                          C", "texto": "El rey de gloria me ha transformado" },
+        { "acordes": "C                          F", "texto": "El rey de gloria me ha transformado" },
+        { "acordes": "G                                   C", "texto": "No vuelvo atrás, no vuelvo atrás" }
+      ]
+    },
+    {
+      "tipo": "intro",
+      "etiqueta": "Final",
+      "lineas": [
+        { "acordes": "C", "texto": "" }
+      ]
+    }
+  ]
 }
   
 ]
