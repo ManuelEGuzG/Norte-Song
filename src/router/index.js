@@ -1,4 +1,4 @@
-import { createRouter, createWebHistory } from 'vue-router'
+import { createRouter, createWebHashHistory } from 'vue-router'
 import VistaInicio from '../views/VistaInicio.vue'
 import VistaCanciones from '../views/VistaCanciones.vue'
 import VistaDetalleCancion from '../views/VistaDetalleCancion.vue'
@@ -14,6 +14,6 @@ const rutas = [
 ]
 
 export default createRouter({
-  history: createWebHistory(),
+  history: createWebHashHistory(),
   routes: rutas
 })
