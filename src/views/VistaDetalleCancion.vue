@@ -68,7 +68,7 @@ const todasCanciones = ref([])
 async function cargarCancion(id) {
   cancion.value = null
   if (!todasCanciones.value.length) {
-    const res = await fetch('/canciones.json')
+    const res = await fetch(import.meta.env.BASE_URL + 'canciones.json')
     todasCanciones.value = await res.json()
   }
   cancion.value = todasCanciones.value.find(c => c.id === parseInt(id))

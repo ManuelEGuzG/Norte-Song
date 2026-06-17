@@ -204,7 +204,7 @@ const canvas    = ref(null)
 let animId      = null
 
 onMounted(async () => {
-  const res = await fetch('/canciones.json')
+  const res = await fetch(import.meta.env.BASE_URL + 'canciones.json')
   canciones.value = await res.json()
   iniciarCanvas()
 })

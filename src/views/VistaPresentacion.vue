@@ -106,14 +106,14 @@ const mostrarAcordes = ref(false)
 const LINEAS         = 4
 const tamanoLetra    = ref(3.2)
 const TAMANO_MIN     = 1.5
-const TAMANO_MAX     = 4.4
+const TAMANO_MAX     = 5.6
 const TAMANO_PASO    = 0.4
 
 function agrandar() { if (tamanoLetra.value < TAMANO_MAX) tamanoLetra.value = Math.round((tamanoLetra.value + TAMANO_PASO) * 10) / 10 }
 function achicar()  { if (tamanoLetra.value > TAMANO_MIN) tamanoLetra.value = Math.round((tamanoLetra.value - TAMANO_PASO) * 10) / 10 }
 
 onMounted(async () => {
-  const res = await fetch('/canciones.json')
+  const res = await fetch(import.meta.env.BASE_URL + 'canciones.json')
   const todas = await res.json()
   cancion.value = todas.find(c => c.id === parseInt(idCancion))
   contenedor.value?.focus()

@@ -49,7 +49,7 @@ const genero    = ref('')
 const cargando  = ref(true)
 
 onMounted(async () => {
-  const res = await fetch('/canciones.json')
+  const res = await fetch(import.meta.env.BASE_URL + 'canciones.json')
   canciones.value = await res.json()
   cargando.value = false
 })
